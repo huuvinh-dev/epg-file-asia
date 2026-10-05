@@ -1,0 +1,1122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="tvtrueid">
+  <channel id="ช่อง3HD.th">
+    <display-name lang="th">ช่อง 3 HD</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/07/24/5ff3e270-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" />
+  </channel>
+  <channel id="ไทยรัฐทีวีHD.th">
+    <display-name lang="th">ไทยรัฐ ทีวี HD</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp" />
+  </channel>
+  <channel id="ช่อง7HD.th">
+    <display-name lang="th">ช่อง 7HD</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp" />
+  </channel>
+  <channel id="ทรูโฟร์ยู.th">
+    <display-name lang="th">ทรูโฟร์ยู</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp" />
+  </channel>
+  <channel id="เวิร์คพอยท์ทีวี.th">
+    <display-name lang="th">เวิร์คพอยท์ ทีวี</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/09/14/c5880b10-affd-11f1-9f46-271188c3f2ee_webp_original.webp" />
+  </channel>
+  <channel id="ช่อง8.th">
+    <display-name lang="th">ช่อง 8</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/02/27/27350760-13ae-11f1-b8cb-95cb418dab77_webp_original.webp" />
+  </channel>
+  <channel id="วันHD.th">
+    <display-name lang="th">วัน HD</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2019/01/16/396384be-35dc-4d11-bf04-06c9546ec7bc.png" />
+  </channel>
+  <channel id="เอ็นบีที.th">
+    <display-name lang="th">เอ็นบีที</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/10/02/4a2afc60-60f1-11ee-a78e-f70ba0052fab_webp_original.webp" />
+  </channel>
+  <channel id="พีพีทีวี.th">
+    <display-name lang="th">พีพีทีวี</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp" />
+  </channel>
+  <channel id="เนชั่นทีวี.th">
+    <display-name lang="th">เนชั่น ทีวี</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/09/09/9c6f59c0-4ebe-11ee-99a7-832609069236_webp_original.webp" />
+  </channel>
+  <channel id="ทีเอ็นเอ็น16.th">
+    <display-name lang="th">ทีเอ็นเอ็น 16</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp" />
+  </channel>
+  <channel id="อมรินทร์.th">
+    <display-name lang="th">อมรินทร์</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/07/23/5e86fbc0-48c0-11ef-9fca-d9696b8af2b7_webp_original.webp" />
+  </channel>
+  <channel id="จีเอ็มเอ็ม25.th">
+    <display-name lang="th">จีเอ็มเอ็ม 25</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/11/19/ed873d50-2a22-11eb-bed4-0972e345f90c_original.png" />
+  </channel>
+  <channel id="ไทยพีบีเอส.th">
+    <display-name lang="th">ไทยพีบีเอส</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/09/15/ab170410-5377-11ee-8e1b-194edbb69638_webp_original.webp" />
+  </channel>
+  <channel id="ทรูสปอร์ต7.th">
+    <display-name lang="th">ทรูสปอร์ต 7</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" />
+  </channel>
+  <channel id="9เอ็มคอตHD.th">
+    <display-name lang="th">9 เอ็มคอต HD</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp" />
+  </channel>
+  <channel id="ช่อง5.th">
+    <display-name lang="th">ช่อง 5</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/07/18/7e060a10-2515-11ee-864f-a52221dad038_webp_original.webp" />
+  </channel>
+  <channel id="ทรูสปอร์ต2.th">
+    <display-name lang="th">ทรูสปอร์ต 2</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" />
+  </channel>
+  <channel id="ท็อปนิวส์.th">
+    <display-name lang="th">ท็อปนิวส์</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/06/19/cab7bcc0-4cc6-11f0-b437-536ba535ba63_webp_original.webp" />
+  </channel>
+  <channel id="สถานีโทรทัศน์เพื่อการท่องเที่ยวและกีฬา.th">
+    <display-name lang="th">สถานีโทรทัศน์เพื่อการท่องเที่ยวและกีฬา</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.png" />
+  </channel>
+  <channel id="นิวส์วัน.th">
+    <display-name lang="th">นิวส์วัน</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/01/28/d62afee0-dd32-11ef-953b-ef346c97cada_webp_original.webp" />
+  </channel>
+  <channel id="TrueFilm1.th">
+    <display-name lang="th">True Film 1</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp" />
+  </channel>
+  <channel id="สามเณรปลูกปัญญาธรรม.th">
+    <display-name lang="th">สามเณรปลูกปัญญาธรรม</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/07/18/7d74eda0-2515-11ee-864f-a52221dad038_webp_original.webp" />
+  </channel>
+  <channel id="แมงโก้โมฮิโต้.th">
+    <display-name lang="th">แมงโก้ โมฮิโต้</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/03/17/31ae0b50-21ab-11f1-86ca-bdff6dfe030c_webp_original.webp" />
+  </channel>
+  <channel id="ทรูไอดีเอเชียนซีรีส์.th">
+    <display-name lang="th">ทรูไอดีเอเชียนซีรีส์</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/02/26/407828e0-f412-11ef-a64e-0d554f1e32aa_webp_original.webp" />
+  </channel>
+  <channel id="TrueMovieHits.th">
+    <display-name lang="th">True Movie Hits</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp" />
+  </channel>
+  <channel id="บูมเมอแรง.th">
+    <display-name lang="th">บูมเมอแรง</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/06/02/e810afc0-3fba-11f0-8cc5-8d160eb89f9f_webp_original.webp" />
+  </channel>
+  <channel id="ออนไลน์สเตชั่น.th">
+    <display-name lang="th">ออนไลน์ สเตชั่น</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/02/23/5e8e15d0-1089-11f1-a57f-030b53435594_webp_original.webp" />
+  </channel>
+  <channel id="การ์ตูนคลับแชนเนล.th">
+    <display-name lang="th">การ์ตูนคลับแชนเนล</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/06/26/44b90e20-525d-11f0-9c0d-151e7d28e33f_webp_original.webp" />
+  </channel>
+  <channel id="บีอินสปอตส์1(617).th">
+    <display-name lang="th">บีอินสปอตส์ 1 (617)</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" />
+  </channel>
+  <channel id="TrueThaiFilm.th">
+    <display-name lang="th">True Thai Film</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp" />
+  </channel>
+  <channel id="ทรูปลูกปัญญา.th">
+    <display-name lang="th">ทรู ปลูกปัญญา</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/06/04/16813190-2248-11ef-857f-891570708cee_webp_original.webp" />
+  </channel>
+  <channel id="ทรูไอดีสปอร์ต.th">
+    <display-name lang="th">ทรูไอดี สปอร์ต</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/03/14/29e0bc80-e1d2-11ee-8422-eff39415c030_webp_original.webp" />
+  </channel>
+  <channel id="RamaChannel.th">
+    <display-name lang="th">Rama Channel</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2019/01/31/a5aeb78c-c4db-474f-a5af-345cb9e2f5b5.png" />
+  </channel>
+  <channel id="ไทไชโย.th">
+    <display-name lang="th">ไทไชโย</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/04/22/3fd05bf0-1f5b-11f0-998a-5bc77a7ebf21_webp_original.webp" />
+  </channel>
+  <channel id="ไทยแนส.th">
+    <display-name lang="th">ไทยแนส</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/01/21/c88c76d0-f684-11f0-bb4a-23d9551b2ff7_webp_original.webp" />
+  </channel>
+  <channel id="ท็อปทีวี.th">
+    <display-name lang="th">ท็อปทีวี</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/12/25/c1ce2130-e145-11f0-9745-e1abaece5066_webp_original.webp" />
+  </channel>
+  <channel id="TrueFilmAsia.th">
+    <display-name lang="th">True Film Asia</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp" />
+  </channel>
+  <channel id="บีอินสปอตส์3.th">
+    <display-name lang="th">บีอินสปอตส์ 3</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" />
+  </channel>
+  <channel id="ทรูสปอร์ต4.th">
+    <display-name lang="th">ทรูสปอร์ต 4</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp" />
+  </channel>
+  <channel id="ANIPLUSChannel.th">
+    <display-name lang="th">ANIPLUS Channel</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/05/29/895eab60-3c92-11f0-b877-437fa63d2c00_webp_original.webp" />
+  </channel>
+  <channel id="ทีพีทีวี.th">
+    <display-name lang="th">ทีพีทีวี</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/11/22/2a4de600-8919-11ee-8416-3dc6bea66698_webp_original.webp" />
+  </channel>
+  <channel id="TrueAsianMore.th">
+    <display-name lang="th">True Asian More</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" />
+  </channel>
+  <channel id="FoodiezChannel.th">
+    <display-name lang="th">Foodiez Channel</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/03/02/8a5801b0-15ea-11f1-88f0-3d6bf67e1529_webp_original.webp" />
+  </channel>
+  <channel id="AFReality.th">
+    <display-name lang="th">AF Reality</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/07/20/270ef510-8439-11f1-8848-77442d8e7fec_webp_original.webp" />
+  </channel>
+  <channel id="TrueTennis.th">
+    <display-name lang="th">True Tennis</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.png" />
+  </channel>
+  <channel id="ทรูสปอร์ต3.th">
+    <display-name lang="th">ทรูสปอร์ต  3</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" />
+  </channel>
+  <channel id="ทรูไอดีไลฟ์.th">
+    <display-name lang="th">ทรูไอดี ไลฟ์</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/03/14/0c8fb370-e1d2-11ee-9da1-192fdd9d9955_webp_original.webp" />
+  </channel>
+  <channel id="ยาตีมทีวี.th">
+    <display-name lang="th">ยาตีมทีวี</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/09/16/087fdc60-92f7-11f0-96e6-0db8621794b2_webp_original.webp" />
+  </channel>
+  <channel id="TrueExploreWild.th">
+    <display-name lang="th">True Explore Wild</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" />
+  </channel>
+  <channel id="TrueSparkPlay.th">
+    <display-name lang="th">True Spark Play</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/cdd2cd90-b44d-11ee-bbdb-077300b4f5a1_webp_original.webp" />
+  </channel>
+  <channel id="TrueIDxMSLThailand.th">
+    <display-name lang="th">TrueID x MSL Thailand</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/04/29/f87fe2e0-4388-11f1-9037-7f2617394879_webp_original.webp" />
+  </channel>
+  <channel id="ไวท์แชนแนล.th">
+    <display-name lang="th">ไวท์แชนแนล</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2022/02/17/3943ca00-8fd6-11ec-b076-dffedf0eab22_webp_original.png" />
+  </channel>
+  <channel id="ธรรมะทีวี.th">
+    <display-name lang="th">ธรรมะทีวี</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/06/23/816989d0-b550-11ea-8fac-236a281cd6c5_original.png" />
+  </channel>
+  <channel id="บีอินสปอตส์1.th">
+    <display-name lang="th">บีอินสปอตส์ 1</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" />
+  </channel>
+  <channel id="TrueExploreSci.th">
+    <display-name lang="th">True Explore Sci</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" />
+  </channel>
+  <channel id="TrueFilm2.th">
+    <display-name lang="th">True Film 2</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" />
+  </channel>
+  <channel id="TrueX-Zyte.th">
+    <display-name lang="th">True X-Zyte</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" />
+  </channel>
+  <channel id="TNN16HD.th">
+    <display-name lang="th">TNN 16 HD</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp" />
+  </channel>
+  <channel id="ทรูสปอร์ต1.th">
+    <display-name lang="th">ทรูสปอร์ต 1</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" />
+  </channel>
+  <channel id="TrueSeries.th">
+    <display-name lang="th">True Series</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp" />
+  </channel>
+  <channel id="ทรูพรีเมียร์ฟุตบอล3.th">
+    <display-name lang="th">ทรู พรีเมียร์ ฟุตบอล 3</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/04/09/a7906480-33f8-11f1-bcc9-eb625ebc3222_webp_original.webp" />
+  </channel>
+  <channel id="บีอินสปอตส์2.th">
+    <display-name lang="th">บีอินสปอตส์ 2</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" />
+  </channel>
+  <channel id="SPOTV1.th">
+    <display-name lang="th">SPOTV 1</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" />
+  </channel>
+  <channel id="Event1.th">
+    <display-name lang="th">Event 1</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_original.png" />
+  </channel>
+  <channel id="Event2.th">
+    <display-name lang="th">Event 2</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_original.png" />
+  </channel>
+  <channel id="TrueBallThai1.th">
+    <display-name lang="th">True Ball Thai 1</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp" />
+  </channel>
+  <channel id="ไคร์มแอนด์อินเวสทิเกชั่น.th">
+    <display-name lang="th">ไคร์ม แอนด์ อินเวสทิเกชั่น</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.png" />
+  </channel>
+  <channel id="tvNAsia.th">
+    <display-name lang="th">tvN Asia</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/01/27/8ae7d3e0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" />
+  </channel>
+  <channel id="ทรูสปอร์ต5.th">
+    <display-name lang="th">ทรูสปอร์ต 5</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" />
+  </channel>
+  <channel id="Event5.th">
+    <display-name lang="th">Event 5</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_original.png" />
+  </channel>
+  <channel id="RockXStream.th">
+    <display-name lang="th">Rock X Stream</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/01/27/234474a0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" />
+  </channel>
+  <channel id="Event4.th">
+    <display-name lang="th">Event 4</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_original.png" />
+  </channel>
+  <channel id="Event3.th">
+    <display-name lang="th">Event 3</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_original.png" />
+  </channel>
+  <channel id="SPOTV2.th">
+    <display-name lang="th">SPOTV 2</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" />
+  </channel>
+  <channel id="ทรูพรีเมียร์ฟุตบอล5.th">
+    <display-name lang="th">ทรู พรีเมียร์ ฟุตบอล 5</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/04/09/a7bbba40-33f8-11f1-bcc9-eb625ebc3222_webp_original.webp" />
+  </channel>
+  <channel id="บีอินสปอตส์5.th">
+    <display-name lang="th">บีอินสปอตส์ 5</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" />
+  </channel>
+  <channel id="ดีดับเบิ้ลยูอิงลิช.th">
+    <display-name lang="th">ดี ดับเบิ้ลยู อิงลิช</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2022/09/08/e5b667c0-2f27-11ed-9e57-d98920d4c462_webp_original.png" />
+  </channel>
+  <channel id="ทรูพรีเมียร์ฟุตบอล4.th">
+    <display-name lang="th">ทรู พรีเมียร์ ฟุตบอล 4</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/04/09/a7af3720-33f8-11f1-bcc9-eb625ebc3222_webp_original.webp" />
+  </channel>
+  <channel id="TNN2.th">
+    <display-name lang="th">TNN 2</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png" />
+  </channel>
+  <channel id="DLTV9.th">
+    <display-name lang="th">DLTV 9</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/bf927580-98c4-11ea-bcb3-0320ce420b5e_original.png" />
+  </channel>
+  <channel id="DLTV10.th">
+    <display-name lang="th">DLTV 10</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/bfd21690-98c4-11ea-bcb3-0320ce420b5e_original.png" />
+  </channel>
+  <channel id="DLTV13.th">
+    <display-name lang="th">DLTV 13</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/c2335f20-98c4-11ea-bcb3-0320ce420b5e_original.png" />
+  </channel>
+  <channel id="ทดสอบการออกอากาศ.th">
+    <display-name lang="th">ทดสอบการออกอากาศ</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2022/07/18/79461e70-0667-11ed-b687-85f145af88ed_webp_original.png" />
+  </channel>
+  <channel id="บีอินสปอตส์6.th">
+    <display-name lang="th">บีอินสปอตส์ 6</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" />
+  </channel>
+  <channel id="iQIYI.th">
+    <display-name lang="th">iQIYI</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/01/27/c96aa2a0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" />
+  </channel>
+  <channel id="ArirangTV.th">
+    <display-name lang="th">Arirang TV</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2022/09/08/e55200a0-2f27-11ed-a458-efe831982670_webp_original.png" />
+  </channel>
+  <channel id="เอ็นเอฟแอลแอนด์เอ็นบีเอทีวี.th">
+    <display-name lang="th">เอ็นเอฟแอล แอนด์ เอ็นบีเอ ทีวี</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2022/12/22/d9313340-81d9-11ed-a7f9-412bbba270e9_webp_original.png" />
+  </channel>
+  <channel id="โมโนแมกซ์สปอร์ตส์.th">
+    <display-name lang="th">โมโนแมกซ์ สปอร์ตส์</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/05/27/63d2e530-5999-11f1-9eae-09fe801bd2a9_webp_original.webp" />
+  </channel>
+  <channel id="ซุปเปอร์บันเทิง.th">
+    <display-name lang="th">ซุปเปอร์ บันเทิง</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/06/23/99bc7f60-b550-11ea-8fac-236a281cd6c5_original.png" />
+  </channel>
+  <channel id="ETV.th">
+    <display-name lang="th">ETV</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2017/10/17/31a68f7b-d24e-43e0-9403-22f5e48f081b.png" />
+  </channel>
+  <channel id="GolfPlus.th">
+    <display-name lang="th">Golf Plus</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/12/25/06d51c50-e148-11f0-b7a9-bfd2619f9bca_webp_original.webp" />
+  </channel>
+  <channel id="DLTV1.th">
+    <display-name lang="th">DLTV 1</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/65dc9bb0-98c4-11ea-bcb3-0320ce420b5e_original.png" />
+  </channel>
+  <channel id="DLTV2.th">
+    <display-name lang="th">DLTV 2</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/65debe90-98c4-11ea-b284-2bff0287c295_original.png" />
+  </channel>
+  <channel id="DLTV3.th">
+    <display-name lang="th">DLTV 3</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/87773550-98c4-11ea-b284-2bff0287c295_original.png" />
+  </channel>
+  <channel id="DLTV4.th">
+    <display-name lang="th">DLTV 4</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/66317270-98c4-11ea-b284-2bff0287c295_original.png" />
+  </channel>
+  <channel id="DLTV5.th">
+    <display-name lang="th">DLTV 5</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/6683b120-98c4-11ea-b284-2bff0287c295_original.png" />
+  </channel>
+  <channel id="DLTV6.th">
+    <display-name lang="th">DLTV 6</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/66ce9cd0-98c4-11ea-b284-2bff0287c295_original.png" />
+  </channel>
+  <channel id="DLTV7.th">
+    <display-name lang="th">DLTV 7</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/67145860-98c4-11ea-b284-2bff0287c295_original.png" />
+  </channel>
+  <channel id="DLTV8.th">
+    <display-name lang="th">DLTV 8</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/bf9386f0-98c4-11ea-b284-2bff0287c295_original.png" />
+  </channel>
+  <channel id="DLTV11.th">
+    <display-name lang="th">DLTV 11</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/bfdaa210-98c4-11ea-bcb3-0320ce420b5e_original.png" />
+  </channel>
+  <channel id="DLTV12.th">
+    <display-name lang="th">DLTV 12</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/044a2a10-98c5-11ea-bcb3-0320ce420b5e_original.png" />
+  </channel>
+  <channel id="DLTV14.th">
+    <display-name lang="th">DLTV 14</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/c2364550-98c4-11ea-bcb3-0320ce420b5e_original.png" />
+  </channel>
+  <channel id="DLTV15.th">
+    <display-name lang="th">DLTV 15</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2020/05/18/c273ea90-98c4-11ea-bcb3-0320ce420b5e_original.png" />
+  </channel>
+  <channel id="ช่องทดสอบออกอากาศที่2.th">
+    <display-name lang="th">ช่องทดสอบออกอากาศที่2</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2022/07/18/79461e70-0667-11ed-b687-85f145af88ed_webp_original.png" />
+  </channel>
+  <channel id="ยูเอฟซี.th">
+    <display-name lang="th">ยูเอฟซี</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2022/11/16/88521af0-6598-11ed-8215-b386a7bd4f58_webp_original.png" />
+  </channel>
+  <channel id="TrueBallThai2.th">
+    <display-name lang="th">True Ball Thai 2</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp" />
+  </channel>
+  <channel id="TrueBallThai3.th">
+    <display-name lang="th">True Ball Thai 3</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp" />
+  </channel>
+  <channel id="TrueBallThai4.th">
+    <display-name lang="th">True Ball Thai 4</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp" />
+  </channel>
+  <channel id="TrueBallThai5.th">
+    <display-name lang="th">True Ball Thai 5</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp" />
+  </channel>
+  <channel id="TrueBallThai6.th">
+    <display-name lang="th">True Ball Thai 6</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp" />
+  </channel>
+  <channel id="TrueBallThai7.th">
+    <display-name lang="th">True Ball Thai 7</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp" />
+  </channel>
+  <channel id="TrueBallThai8.th">
+    <display-name lang="th">True Ball Thai 8</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp" />
+  </channel>
+  <channel id="TrueBallThai9.th">
+    <display-name lang="th">True Ball Thai 9</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp" />
+  </channel>
+  <channel id="บีอินสปอตส์4.th">
+    <display-name lang="th">บีอินสปอตส์ 4</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" />
+  </channel>
+  <channel id="บีอินสปอตส์7.th">
+    <display-name lang="th">บีอินสปอตส์ 7</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" />
+  </channel>
+  <channel id="บีอินสปอตส์8.th">
+    <display-name lang="th">บีอินสปอตส์ 8</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" />
+  </channel>
+  <channel id="บีอินสปอตส์9.th">
+    <display-name lang="th">บีอินสปอตส์ 9</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" />
+  </channel>
+  <channel id="บีอินสปอตส์10.th">
+    <display-name lang="th">บีอินสปอตส์ 10</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" />
+  </channel>
+  <channel id="NHKWorldPremium.th">
+    <display-name lang="th">NHK World Premium</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2024/09/18/fda5a510-758b-11ef-8701-b5698fd69830_webp_original.webp" />
+  </channel>
+  <channel id="MotoGP1.th">
+    <display-name lang="th">Moto GP1</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2025/04/23/e3ad8510-1fef-11f0-bc2b-5955b429894b_webp_original.webp" />
+  </channel>
+  <channel id="ช่องทดสอบออกอากาศที่3.th">
+    <display-name lang="th">ช่องทดสอบออกอากาศที่ 3</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2022/07/18/79461e70-0667-11ed-b687-85f145af88ed_webp_original.png" />
+  </channel>
+  <channel id="SOULSIAM.th">
+    <display-name lang="th">SOUL SIAM</display-name>
+    <icon src="https://cms.dmpcdn.com/livetv/2026/01/27/5c6a1ff0-fb36-11f0-a9b3-2b58c60b9415_webp_original.webp" />
+  </channel>
+  <programme channel="ช่อง3HD.th" start="20261017222500 +0700" stop="20261017232200 +0700">
+    <title lang="th">ซีรีส์ Third Person ถ้อยรัก...คำลวง</title>
+    <desc lang="th">ความสัมพันธ์อันซับซ้อนของคนสามคนที่ต้องเกี่ยวพันกันด้วยความรัก ความลับ และคำโกหก เมื่อความจริงเริ่มปรากฏ บททดสอบหัวใจจึงเริ่มต้นขึ้น -- นำแสดงโดย กานต์ ณัฐชา, พิกเล็ท ชาราฎา</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c03/20261017/20261017_222500.jpg" />
+  </programme>
+  <programme channel="ช่อง3HD.th" start="20261017232200 +0700" stop="20261017232500 +0700">
+    <title lang="th">ของฝากนักกอล์ฟ</title>
+    <desc lang="th">รายการข่าวสารข้อมูลและแนะแนวเทคนิคดีๆ สำหรับนักกอล์ฟโดยเฉพาะ</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c03/20261017/20261017_232200.jpg" />
+  </programme>
+  <programme channel="ช่อง3HD.th" start="20261017232500 +0700" stop="20261018000000 +0700">
+    <title lang="th">แชนแนลทรี มูฟวีส์ "โหด เลว ดี 3 (A Bette</title>
+    <desc lang="th">เรื่องราวของอาหม่าที่ได้เดินทางไปยังเวียตนามเพื่อรับครอบครัวกลับ แต่เรื่องราวกลับยุ่งเหยิงขึ้นเมื่อเขาเกิดไปตกหลุมรักนักเลงสาวคนหนึ่ง</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c03/20261017/20261017_232500.jpg" />
+  </programme>
+  <programme channel="ไทยรัฐทีวีHD.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">เรื่องเล่าหลังเที่ยงคืน</title>
+    <desc lang="th">รายการนำเสนอเรื่องราวหลอน ประวัติศาสตร์ความเชื่อท้องถิ่นไทยและต่างประเทศ ตำนานทหารผี อาถรรพ์สถานที่ และเรื่องลี้ลับในรั้ววังที่หาฟังยาก</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d05/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="ช่อง7HD.th" start="20261017223000 +0700" stop="20261017233000 +0700">
+    <title lang="th">กู้ภัยอาสารัก (Rerun)</title>
+    <desc lang="th">เรื่องราวของซูเปอร์สตาร์หนุ่มผู้ทำทุกอย่างเพื่อเงิน ที่ต้องคำสาปจากสิ่งศักดิ์สิทธิ์</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c07/20261017/20261017_223000.jpg" />
+  </programme>
+  <programme channel="ช่อง7HD.th" start="20261017233000 +0700" stop="20261017234000 +0700">
+    <title lang="th">ข่าวเด็ดภาคดึก</title>
+    <desc lang="th">รายงานข่าวความเคลื่อนไหวเหตุการณ์ต่างๆตลอดวัน</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c07/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="ช่อง7HD.th" start="20261017234000 +0700" stop="20261018000000 +0700">
+    <title lang="th">One Lumpinee Highlights</title>
+    <desc lang="th">พบกับช็อตเด็ดๆ จังหวะมันๆ ของคู่มวยคู่เด็ดของศึกที่ผ่านมา</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c07/20261017/20261017_234000.jpg" />
+  </programme>
+  <programme channel="ทรูโฟร์ยู.th" start="20261017230000 +0700" stop="20261018010000 +0700">
+    <title lang="th">ภาพยนตร์ 7 ประจัญบาน 2</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/207/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="เวิร์คพอยท์ทีวี.th" start="20261017221800 +0700" stop="20261017231500 +0700">
+    <title lang="th">ยืน 1 ถึง 3 รีรัน</title>
+    <desc lang="th">ความสนุกครั้งใหม่กับหลากหลาย เรื่องราวความยืน 1 ของปริศนาที่จะทำให้คุณถึงกับอึ้ง</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d83/20261017/20261017_221800.jpg" />
+  </programme>
+  <programme channel="เวิร์คพอยท์ทีวี.th" start="20261017231500 +0700" stop="20261017232500 +0700">
+    <title lang="th">ของมันต้องมี Daily</title>
+    <desc lang="th">รายการแนะนำสินค้า</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d83/20261017/20261017_231500.jpg" />
+  </programme>
+  <programme channel="เวิร์คพอยท์ทีวี.th" start="20261017232500 +0700" stop="20261017235700 +0700">
+    <title lang="th">โรงงานบรรจุรัก</title>
+    <desc lang="th">เรื่องราวชีวิตของคนโรงงานที่ถึงแม้งานจะล้นมือ แถมยังมีความเครียดชวนให้หัวระเบิด แต่ยังมีความรักช่วยขับเคลื่อนหัวใจให้ไปต่อได้ในทุกๆ วัน</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d83/20261017/20261017_232500.jpg" />
+  </programme>
+  <programme channel="เวิร์คพอยท์ทีวี.th" start="20261017235700 +0700" stop="20261018000000 +0700">
+    <title lang="th">ข่าวใหม่ต้นชั่วโมง รีรัน</title>
+    <desc lang="th">อัพเดทข่าวสาร เกาะติดทุกสถานการณ์ข่าวในทุกต้นชั่วโมง</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d83/20261017/20261017_235700.jpg" />
+  </programme>
+  <programme channel="ช่อง8.th" start="20261017221500 +0700" stop="20261017231500 +0700">
+    <title lang="th">ซีรีส์ ส่องเลนส์ เกมสอดแนม (Through a Le</title>
+    <desc lang="th">เรื่องราวของเหล่าอาชญากรไซเบอร์ที่ร่วมมือกันเปิดโปงความลับของบริษัทยักษ์ใหญ่ ผ่านการใช้เลนส์ส่องชีวิตและเกมจารกรรมที่สุดระทึกและคาดไม่ถึง</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d62/20261017/20261017_221500.jpg" />
+  </programme>
+  <programme channel="ช่อง8.th" start="20261017231500 +0700" stop="20261017232500 +0700">
+    <title lang="th">ชีวิตดี สาระดี</title>
+    <desc lang="th">พบกับรายการที่จะนำสาระดีๆ มามอบให้กับคุณ</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d62/20261017/20261017_231500.jpg" />
+  </programme>
+  <programme channel="ช่อง8.th" start="20261017232500 +0700" stop="20261018000000 +0700">
+    <title lang="th">ซีรีส์ ทูตส่งวิญญาณ</title>
+    <desc lang="th">ละครสั้นสะท้อนสังคมผ่านเรื่องราวของวิญญาณ</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d62/20261017/20261017_232500.jpg" />
+  </programme>
+  <programme channel="วันHD.th" start="20261017221500 +0700" stop="20261017231500 +0700">
+    <title lang="th">ซีรีส์ MRFANBOY รักสุดใจนายแฟนบอย</title>
+    <desc lang="th">เรื่องราวความอลวนในกองถ่ายและการทำงานของนายแฟนบอยที่จับพลัดจับผลูได้เข้ามาแคสติ้งและก้าวเข้าสู่วงการบันเทิงร่วมกับศิลปินที่ตนเองชื่นชอบ -- นำแสดงโดย เซฟ วรพงษ์, เจมส์ ศุภมงคล</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d56/20261017/20261017_221500.jpg" />
+  </programme>
+  <programme channel="วันHD.th" start="20261017231500 +0700" stop="20261017232000 +0700">
+    <title lang="th">Slot promote พิเศษ</title>
+    <desc lang="th">:: SPECIAL</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d56/20261017/20261017_231500.jpg" />
+  </programme>
+  <programme channel="วันHD.th" start="20261017232000 +0700" stop="20261017233000 +0700">
+    <title lang="th">O Shopping</title>
+    <desc lang="th">สัมผัสประสบการณ์ใหม่ในการช้อปปิ้งออนไลน์ระดับโลก</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d56/20261017/20261017_232000.jpg" />
+  </programme>
+  <programme channel="วันHD.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">ละคร ดงพญาเย็น</title>
+    <desc lang="th">เตรียมตัวผจญภัยเปิดตำนานป่าอาถรรพ์ที่เต็มไปด้วยอันตรายรอบด้านกับภารกิจสุดหฤโหดที่เดิมพันด้วยชีวิต</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d56/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="เอ็นบีที.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">ข่าวดึก NBT News</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c11/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="พีพีทีวี.th" start="20261017221500 +0700" stop="20261018000000 +0700">
+    <title lang="th">Home of Sports Weekend</title>
+    <desc lang="th">นำเสนอข่าวล่าสุดในวงการกีฬาทั้งในและต่างประเทศ</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/da7/20261017/20261017_221500.jpg" />
+  </programme>
+  <programme channel="เนชั่นทีวี.th" start="20261017224500 +0700" stop="20261017233000 +0700">
+    <title lang="th">สืบสวนความจริง</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d78/20261017/20261017_224500.jpg" />
+  </programme>
+  <programme channel="เนชั่นทีวี.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">NATION FOCUS [R]</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d78/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="ทีเอ็นเอ็น16.th" start="20261017223000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TNN ข่าวดึก</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/135/20261017/20261017_223000.jpg" />
+  </programme>
+  <programme channel="อมรินทร์.th" start="20261017214500 +0700" stop="20261017233500 +0700">
+    <title lang="th">DUO ONE</title>
+    <desc lang="th">เรียลลิตี้โชว์ครั้งแรกของเมืองไทยในการเฟ้นหาศิลปินดูโอ้คู่ใหม่ของวงการเพลงไทย จากการประชันความสามารถทั้งการร้อง การเต้น และเพอร์ฟอร์แมนซ์</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/da0/20261017/20261017_214500.jpg" />
+  </programme>
+  <programme channel="อมรินทร์.th" start="20261017233500 +0700" stop="20261018000000 +0700">
+    <title lang="th">TVD Shop</title>
+    <desc lang="th">ช่องทางการช้อปปิ้งออนไลน์ที่ทันสมัย รวมสินค้าคุณภาพไว้มากมาย สะดวก ง่าย เชื่อถือได้ ตอบโจทย์ทุกไลฟ์สไตล์นักช้อป</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/da0/20261017/20261017_233500.jpg" />
+  </programme>
+  <programme channel="จีเอ็มเอ็ม25.th" start="20261017223000 +0700" stop="20261017233000 +0700">
+    <title lang="th">ไทยทึ่ง Wow Thailand</title>
+    <desc lang="th">สารคดีแนวท่องเที่ยวที่นำเสนอเรื่องราวและสรรพสิ่งอันน่าทึ่งต่างๆ จากทั้งเจ็ดสิบเจ็ดจังหวัดทั่วไทย</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d76/20261017/20261017_223000.jpg" />
+  </programme>
+  <programme channel="จีเอ็มเอ็ม25.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">Movie Guru</title>
+    <desc lang="th">รายการเพื่อคนรักหนังที่จะช่วยให้คุณรู้ข้อมูลหนังเพิ่มมากขึ้น</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d76/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="ไทยพีบีเอส.th" start="20261017230000 +0700" stop="20261017233000 +0700">
+    <title lang="th">ข่าวดึก</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c12/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="ไทยพีบีเอส.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">Man Made มนุษย์นักสร้าง</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c12/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="ทรูสปอร์ต7.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">BWF DENMARK OPEN 2026 # 056:SF10</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/105/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="9เอ็มคอตHD.th" start="20261017230000 +0700" stop="20261017230500 +0700">
+    <title lang="th">ข่าวต้นชั่วโมง</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c09/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="9เอ็มคอตHD.th" start="20261017230500 +0700" stop="20261017233000 +0700">
+    <title lang="th">ซีรีส์ NOT YOURS (ต่อ)</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c09/20261017/20261017_230500.jpg" />
+  </programme>
+  <programme channel="9เอ็มคอตHD.th" start="20261017233000 +0700" stop="20261017235500 +0700">
+    <title lang="th">คู่ข่าวออนทัวร์</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c09/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="9เอ็มคอตHD.th" start="20261017235500 +0700" stop="20261018000000 +0700">
+    <title lang="th">Shop Mania</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c09/20261017/20261017_235500.jpg" />
+  </programme>
+  <programme channel="ช่อง5.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">สารคดีรู้รอบโลก</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/c05/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="ทรูสปอร์ต2.th" start="20261017230000 +0700" stop="20261017233000 +0700">
+    <title lang="th">BUFC TV 2026-27 # 014</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/ht116/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="ทรูสปอร์ต2.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUEVISIONS-TOYOTA JUNIOR GO KART TRAINI</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/ht116/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="ท็อปนิวส์.th" start="20261017222000 +0700" stop="20261017232000 +0700">
+    <title lang="th">Rerun Top People บันทึกคนสำคัญ</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t530/20261017/20261017_222000.jpg" />
+  </programme>
+  <programme channel="ท็อปนิวส์.th" start="20261017232000 +0700" stop="20261017235000 +0700">
+    <title lang="th">Rerun อยากเล่าให้ฟัง</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t530/20261017/20261017_232000.jpg" />
+  </programme>
+  <programme channel="ท็อปนิวส์.th" start="20261017235000 +0700" stop="20261018000000 +0700">
+    <title lang="th">โอวาทธรรมหลวงตามหาบัว</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t530/20261017/20261017_235000.jpg" />
+  </programme>
+  <programme channel="สถานีโทรทัศน์เพื่อการท่องเที่ยวและกีฬา.th" start="20261017213000 +0700" stop="20261017233000 +0700">
+    <title lang="th">Sports Hot Matches SEA GAMES 2025 (Rerun</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t514/20261017/20261017_213000.jpg" />
+  </programme>
+  <programme channel="สถานีโทรทัศน์เพื่อการท่องเที่ยวและกีฬา.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">ม.กีฬา (Rerun)</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t514/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="นิวส์วัน.th" start="20261017214500 +0700" stop="20261017233000 +0700">
+    <title lang="th">Rerun Sondhi Talk</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t522/20261017/20261017_214500.jpg" />
+  </programme>
+  <programme channel="นิวส์วัน.th" start="20261017233000 +0700" stop="20261018003000 +0700">
+    <title lang="th">คูล ซัพพอร์ทเตอร์ Showtime By น้าติง</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t522/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="TrueFilm1.th" start="20261017220000 +0700" stop="20261018001000 +0700">
+    <title lang="th">อัจฉริยะคนบัญชีเพชฌฆาต</title>
+    <desc lang="th">เรื่องราวของนักบัญชีหนุ่มที่มารับงานตรวจทรัพย์สินของบริษัททรงอิทธิพลสุดอันตราย</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/176/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="สามเณรปลูกปัญญาธรรม.th" start="20261017225500 +0700" stop="20261018000000 +0700">
+    <title lang="th">สามเณรปลูกปัญญาธรรม รวมตอน ตอน 2</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/107/20261017/20261017_225500.jpg" />
+  </programme>
+  <programme channel="ทรูไอดีเอเชียนซีรีส์.th" start="20261017223000 +0700" stop="20261017234500 +0700">
+    <title lang="th">EP.03 | Dine With Love เติมรักปรุงหัวใจ</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/he005/20261017/20261017_223000.jpg" />
+  </programme>
+  <programme channel="ทรูไอดีเอเชียนซีรีส์.th" start="20261017234500 +0700" stop="20261018010000 +0700">
+    <title lang="th">EP.04 | Dine With Love เติมรักปรุงหัวใจ</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/he005/20261017/20261017_234500.jpg" />
+  </programme>
+  <programme channel="TrueMovieHits.th" start="20261017215500 +0700" stop="20261017234500 +0700">
+    <title lang="th">เวน่อม: มหาศึกอสูรอหังการ</title>
+    <desc lang="th">เอ็ดดี้ บร็อคและเวนอมต้องตัดสินใจครั้งสำคัญเมื่อพวกเขาถูกไล่ล่าโดยทหารลึกลับและสัตว์ประหลาดต่างดาวจากโลกบ้านเกิดของเวนอม</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/057/20261017/20261017_215500.jpg" />
+  </programme>
+  <programme channel="TrueMovieHits.th" start="20261017234500 +0700" stop="20261018013000 +0700">
+    <title lang="th">สแน็ตช์...ทีเอ็งข้าไม่ว่า ทีข้าเอ็งอย่าโ</title>
+    <desc lang="th">เรื่องราวเกี่ยวกับเพชรเลอค่าที่ตกเป็นเป้าโจรกรรมของโจร โปรโมเตอร์มวย นักเลงชาวรัสเซีย เจ้าของฟาร์มหมู หรือแม้กระทั่งสุนัขขี้หงุดหงิดตัวหนึ่ง</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/057/20261017/20261017_234500.jpg" />
+  </programme>
+  <programme channel="บูมเมอแรง.th" start="20261017230000 +0700" stop="20261017233000 +0700">
+    <title lang="th">Wheewheel</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/i007/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="บูมเมอแรง.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">Boom Animal World</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/i007/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="ออนไลน์สเตชั่น.th" start="20261017214000 +0700" stop="20261018000000 +0700">
+    <title lang="th">ซุยขิงขิง Hard Talk : ถกปัจจุบัน PlayStation กับ Xbox</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t540/20261017/20261017_214000.jpg" />
+  </programme>
+  <programme channel="การ์ตูนคลับแชนเนล.th" start="20261017230000 +0700" stop="20261017233000 +0700">
+    <title lang="th">นินจาฮาโตริ(ปี1) + Mushymon Days</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/143/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="การ์ตูนคลับแชนเนล.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">ริวโซลเจอร์ + Bottleman</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/143/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์1(617).th" start="20261017211000 +0700" stop="20261017232500 +0700">
+    <title lang="th">LALIGA 2026/27 # VILLARREAL VS ELCHE</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/202/20261017/20261017_211000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์1(617).th" start="20261017232500 +0700" stop="20261018014000 +0700">
+    <title lang="th">LALIGA 2026/27 # REAL BETIS VS BARCELONA</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/202/20261017/20261017_232500.jpg" />
+  </programme>
+  <programme channel="TrueThaiFilm.th" start="20261017221500 +0700" stop="20261018002000 +0700">
+    <title lang="th">สิ่งเล็กเล็กที่เรียกว่า...รัก</title>
+    <desc lang="th">เรื่องราวของสาววัยมัธยมหน้าตาพื้นๆ ที่พยายามทำทุกวิถีทางเพื่อเอาชนะใจนักเรียนหนุ่มรุ่นพี่สุดหล่อในโรงเรียน</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/094/20261017/20261017_221500.jpg" />
+  </programme>
+  <programme channel="ทรูปลูกปัญญา.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">World Documentary S2</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/139/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="ทรูไอดีสปอร์ต.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">Rerun เทพนอกสนาม EP.245</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/he003/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="RamaChannel.th" start="20261017230000 +0700" stop="20261017233000 +0700">
+    <title lang="th">สวยหล่อขอสืบ</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/128/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="RamaChannel.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">The Sexcret</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/128/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="TrueFilmAsia.th" start="20261017220000 +0700" stop="20261017235500 +0700">
+    <title lang="th">เจาะเวลาหาจิ๋นซี เดอะ มูฟวี่</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t500/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="TrueFilmAsia.th" start="20261017235500 +0700" stop="20261018013000 +0700">
+    <title lang="th">โตเกียว รีเวนเจอร์ส 2 ฮาโลวีนสีเลือด</title>
+    <desc lang="th">ฮินาตะ ได้ถูกสังหารโดยสมาชิกแก๊งโตเกียวมันจิไค และนั่นทำให้เขาได้มีโอกาสย้อนเวลากลับมาเพื่อเปลี่ยนแปลงเหตุการณ์ในอดีตอีกครั้ง</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t500/20261017/20261017_235500.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์3.th" start="20261017210700 +0700" stop="20261017231500 +0700">
+    <title lang="th">LALIGA 2 2026/27 # EIBAR VS MALLORCA</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/215/20261017/20261017_210700.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์3.th" start="20261017231500 +0700" stop="20261018023000 +0700">
+    <title lang="th">GT WORLD CHALLENGE EUROPE 2026 # PORTIMA</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/215/20261017/20261017_231500.jpg" />
+  </programme>
+  <programme channel="ทรูสปอร์ต4.th" start="20261017210500 +0700" stop="20261017232000 +0700">
+    <title lang="th">LIVE: CHAMPIONS CUP : STORMERS V BRISTOL</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/062/20261017/20261017_210500.jpg" />
+  </programme>
+  <programme channel="ทรูสปอร์ต4.th" start="20261017232000 +0700" stop="20261018014500 +0700">
+    <title lang="th">LIVE: CHAMPIONS CUP : CONNACHT V SARACEN</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/062/20261017/20261017_232000.jpg" />
+  </programme>
+  <programme channel="ANIPLUSChannel.th" start="20261017230000 +0700" stop="20261017233000 +0700">
+    <title lang="th">EP.03 | Magical Explorer</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t529/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="ANIPLUSChannel.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">EP.04 | Magical Explorer</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t529/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="ทีพีทีวี.th" start="20261017224000 +0700" stop="20261017233000 +0700">
+    <title lang="th">Take a Look Documentary</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d31/20261017/20261017_224000.jpg" />
+  </programme>
+  <programme channel="ทีพีทีวี.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">ไทไม่รู้โรย</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/d31/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="TrueAsianMore.th" start="20261017223500 +0700" stop="20261018000000 +0700">
+    <title lang="th">เถ้าแก่ชินหัวใจจัดให้ EP.3</title>
+    <desc lang="th">คุณชิน อดีตนักเจรจามือทองที่เปิดร้านไก่ทอด ใช้ทักษะการพูดช่วยคลี่คลายปัญหาและความขัดแย้งรอบตัว ตั้งแต่เรื่องเล็กจนถึงคดีซับซ้อน</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/081/20261017/20261017_223500.jpg" />
+  </programme>
+  <programme channel="FoodiezChannel.th" start="20261017223500 +0700" stop="20261017231000 +0700">
+    <title lang="th">รสชาติช่างสงสัย EP.2</title>
+    <desc lang="th">รายการพาไปค้นหาอาหารหลากหลายจากทั่วโลก ผ่านวัตถุดิบ เมนูสร้างสรรค์ และเรื่องราวเบื้องหลังที่เปลี่ยนความสงสัยให้กลายเป็นความหิว</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/060/20261017/20261017_223500.jpg" />
+  </programme>
+  <programme channel="FoodiezChannel.th" start="20261017231000 +0700" stop="20261018000000 +0700">
+    <title lang="th">สุโก้ย! เจแปนเด็ด EP.10</title>
+    <desc lang="th">รายการวาไรตี้ที่มีมาอย่างยาวนานของประเทศญี่ปุ่น ที่จะพาคุณไปสำรวจเมืองนาโกย่า พร้อมพบกับผู้คนท้องถิ่น ร้านค้าชื่อดังและชิมอาหารท้องถิ่นแสนอร่อย</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/060/20261017/20261017_231000.jpg" />
+  </programme>
+  <programme channel="AFReality.th" start="20261017215859 +0700" stop="20261018005523 +0700">
+    <title lang="th">คอนเสิร์ตประจำสัปดาห์</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t533/20261017/20261017_215800.jpg" />
+  </programme>
+  <programme channel="TrueTennis.th" start="20261017223000 +0700" stop="20261018000000 +0700">
+    <title lang="th">เทนนิสหญิงอู่ฮั่น โอเพน 2026 : รอบก่อนรอ</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/045/20261017/20261017_223000.jpg" />
+  </programme>
+  <programme channel="ทรูสปอร์ต3.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">ไดมอนด์ ลีก 2026 : บรัสเซลล์ ไฟนอลส์ วัน</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/ht117/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="ทรูไอดีไลฟ์.th" start="20261017000000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TrueID Live</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/ev04/20261017/20261017_000000.jpg" />
+  </programme>
+  <programme channel="ยาตีมทีวี.th" start="20261017223000 +0700" stop="20261018000000 +0700">
+    <title lang="th">สาระธรรม บรรยายศาสนธรรม</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t532/20261017/20261017_223000.jpg" />
+  </programme>
+  <programme channel="TrueExploreWild.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">วัลตาวา แม่น้ำสีทอง</title>
+    <desc lang="th">เริ่มต้นออกเดินทางไปตามแม่น้ำวัลตาวา พร้อมสำรวจภูมิประเทศที่น่าหลงใหลและพบกับสัตว์ป่านานาชนิดที่เจริญเติบโตตามริมฝั่งแม่น้ำอันงดงามแห่งนี้</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/058/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="TrueSparkPlay.th" start="20261017224000 +0700" stop="20261017231000 +0700">
+    <title lang="th">ยอดนักสืบจิ๋วโคนัน เดอะซีรี่ส์ EP.28</title>
+    <desc lang="th">เรื่องราวของนักสืบ โคนัน ที่ใช้อุปกรณ์ประดิษฐ์พิเศษช่วยคลี่คลายคดีต่างๆด้วยหลักการและเหตุผล</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/007/20261017/20261017_224000.jpg" />
+  </programme>
+  <programme channel="TrueSparkPlay.th" start="20261017231000 +0700" stop="20261017233500 +0700">
+    <title lang="th">โปเกมอน สุดขอบฟ้า ซีซั่น 2: เสาะหาลาควา EP.5</title>
+    <desc lang="th">ขอต้อนรับสู่โลกของโปเกม่อนซึ่งเด็กๆจะเป็นผู้ฝึกสอนการต่อสู้ให้กับเหล่าโปเกม่อนและส่งพวกมันไปประลองฝีมือเพื่อชิงความเป็นหนึ่ง</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/007/20261017/20261017_231000.jpg" />
+  </programme>
+  <programme channel="TrueSparkPlay.th" start="20261017233500 +0700" stop="20261018000000 +0700">
+    <title lang="th">ยอดนักสืบจิ๋วโคนัน เดอะซีรี่ส์ ปี 24 EP.5</title>
+    <desc lang="th">เรื่องราวของนักสืบ โคนัน ที่ใช้อุปกรณ์ประดิษฐ์พิเศษช่วยคลี่คลายคดีต่างๆด้วยหลักการและเหตุผล</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/007/20261017/20261017_233500.jpg" />
+  </programme>
+  <programme channel="TrueIDxMSLThailand.th" start="20261017200000 +0700" stop="20261018000000 +0700">
+    <title lang="th">MSL Thailand</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t541/20261017/20261017_200000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์1.th" start="20261017211000 +0700" stop="20261017232500 +0700">
+    <title lang="th">LALIGA 2026/27</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev001/20261017/20261017_211000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์1.th" start="20261017232500 +0700" stop="20261018014000 +0700">
+    <title lang="th">LALIGA 2026/27</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev001/20261017/20261017_232500.jpg" />
+  </programme>
+  <programme channel="TrueExploreSci.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">จักรกลมหึมา ปี 2 EP.2</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/061/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="TrueFilm2.th" start="20261017221000 +0700" stop="20261018000000 +0700">
+    <title lang="th">ฉลามบก</title>
+    <desc lang="th">เรื่องราวของตำรวจมือใหม่ที่ต้องร่วมมือกับมืออาชีพผู้แข็งแกร่งที่หน่วยตำรวจทางหลวงแคลิฟอร์เนียแต่กลับค้นพบว่าคู่หูของเขาคือสายลับ</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/221/20261017/20261017_221000.jpg" />
+  </programme>
+  <programme channel="TrueX-Zyte.th" start="20261017213000 +0700" stop="20261017230500 +0700">
+    <title lang="th">รู้ไหมใครโสด EP.24</title>
+    <desc lang="th">รายการเดตติ้งเกมโชว์ที่สาวโสดต้องใช้ไหวพริบและคำแนะนำจากเหล่ากูรู เพื่อค้นหาหนุ่มโสด ตัวจริงจาก 5 หนุ่มปริศนา</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/034/20261017/20261017_213000.jpg" />
+  </programme>
+  <programme channel="TrueX-Zyte.th" start="20261017230500 +0700" stop="20261018000000 +0700">
+    <title lang="th">ติ๊กต็อก: ฆาตกรรมระทึก EP.1</title>
+    <desc lang="th">สารคดีที่จะพาคุณไปสำรวจเหตุการณ์อาชญากรรมสุดระทึกซึ่งเชื่อมโยงกับแพลตฟอร์มโซเชียลมีเดียที่เติบโตเร็วที่สุด</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/034/20261017/20261017_230500.jpg" />
+  </programme>
+  <programme channel="TNN16HD.th" start="20261017223000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TNN ข่าวดึก</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t516/20261017/20261017_223000.jpg" />
+  </programme>
+  <programme channel="ทรูสปอร์ต1.th" start="20261017210000 +0700" stop="20261018000000 +0700">
+    <title lang="th">เอเชียนทัวร์ 2026 : มาเกา โอเพน : วันที่</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/097/20261017/20261017_210000.jpg" />
+  </programme>
+  <programme channel="TrueSeries.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">เดอะวอล์กกิงเดด: เดดซิตี้ ปี 3 EP.3</title>
+    <desc lang="th">การผจญภัยของ แม็กกี้ กับ นีแกน ที่พวกเขาต้องมาเผชิญหน้ากับการแพร่ระบาดและฝูงซอมบี้ในเมืองใหญ่อย่างมหานครนิวยอร์ก</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/st006/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="ทรูพรีเมียร์ฟุตบอล3.th" start="20261017225000 +0700" stop="20261018010000 +0700">
+    <title lang="th">CALCIO SERIE A 2026-27 :BOLOGNA VS INTER</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/ht113/20261017/20261017_225000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์2.th" start="20261017225500 +0700" stop="20261018010000 +0700">
+    <title lang="th">SUPER LIG 2026/27 # FENERBAHCE VS ALANYA</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t521/20261017/20261017_225500.jpg" />
+  </programme>
+  <programme channel="SPOTV1.th" start="20261017230000 +0700" stop="20261018010000 +0700">
+    <title lang="th">TOUR OF ARMENIA 2026 # STAGE 3</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t510/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="TrueBallThai1.th" start="20261017223000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE BALL THAI 1</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/vc01/20261017/20261017_223000.jpg" />
+  </programme>
+  <programme channel="tvNAsia.th" start="20261017221500 +0700" stop="20261018000500 +0700">
+    <title lang="th">3 Meals a Day : Light EP.7</title>
+    <desc lang="th">เชฟ ชาซึงวอน และ ยูแฮจิน กลับมาจับคู่ทำอาหาร 3 มื้อจากวัตถุดิบท้องถิ่นอีกครั้ง ร่วมด้วยแขกรับเชิญที่จะมาร่วมใช้เวลาช่วงฤดูร้อนสุดผ่อนคลายในชนบท</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t537/20261017/20261017_221500.jpg" />
+  </programme>
+  <programme channel="ทรูสปอร์ต5.th" start="20261017220000 +0700" stop="20261017233000 +0700">
+    <title lang="th">KIATPECHT SUPER FIGHT 2026 # 041</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/056/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="ทรูสปอร์ต5.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">ยูเอฟซี อัลติเมต น็อกเอาท์ : เบสต์ ออฟ 2</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/056/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="RockXStream.th" start="20261017214500 +0700" stop="20261017231500 +0700">
+    <title lang="th">SUPER ERUPTION</title>
+    <desc lang="th">เมื่อภูเขาไฟขนาดใหญ่ปะทุขึ้นในรอบหลายพันปีส่งผลให้ผู้คนตกอยู่ในความเสี่ยง เรนเจอร์ ชาร์ลี ยัง และ เคท จึงต้องกอบกู้โลกครั้งนี้ให้ได้</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t535/20261017/20261017_214500.jpg" />
+  </programme>
+  <programme channel="RockXStream.th" start="20261017231500 +0700" stop="20261018010500 +0700">
+    <title lang="th">The Huntsman: Winter's War</title>
+    <desc lang="th">เรื่องราวของหนึ่งวีรบุรุษที่ยืนอยู่ท่ามกลางสงครามแย่งชิงอำนาจระหว่างสองราชินีจนกระทั่งเขาต้องทำทุกอย่างเพื่อปิดศึกในครั้งนี้</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t535/20261017/20261017_231500.jpg" />
+  </programme>
+  <programme channel="SPOTV2.th" start="20261017213000 +0700" stop="20261017235000 +0700">
+    <title lang="th">WTT CHINA SMASH 2026 # DAY 8 SESSION 1</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t511/20261017/20261017_213000.jpg" />
+  </programme>
+  <programme channel="SPOTV2.th" start="20261017235000 +0700" stop="20261018005000 +0700">
+    <title lang="th">2026 IDEMITSU MOTO4 ASIA CUP, RD 4 INDON</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t511/20261017/20261017_235000.jpg" />
+  </programme>
+  <programme channel="ทรูพรีเมียร์ฟุตบอล5.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE PREMIER FOOTBALL 5</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/ht115/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์5.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">BEIN SPORT 5</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/219/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="ดีดับเบิ้ลยูอิงลิช.th" start="20261017230200 +0700" stop="20261017231500 +0700">
+    <title lang="th">Reporter EP.3</title>
+    <desc lang="th">รายการที่จะพาไปติดตามนักข่าวภาคสนามของช่อง DW พร้อมสำรวจเหตุการณ์ต่างๆ ที่เกิดขึ้นกันแบบใกล้ชิดและเจาะลึก</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t518/20261017/20261017_230200.jpg" />
+  </programme>
+  <programme channel="ดีดับเบิ้ลยูอิงลิช.th" start="20261017231500 +0700" stop="20261017233000 +0700">
+    <title lang="th">Sports Life EP.3</title>
+    <desc lang="th">เรื่องราวของผู้คนจากทั่วโลกที่ใช้กีฬาเป็นแรงผลักดันในการดำเนินชีวิต เปลี่ยนแปลงชีวิตตนเองและผู้อื่นให้ก้าวผ่านความไม่เท่าเทียมทางสังคม</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t518/20261017/20261017_231500.jpg" />
+  </programme>
+  <programme channel="ดีดับเบิ้ลยูอิงลิช.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">Tomorrow Today EP.2</title>
+    <desc lang="th">ดำดิ่งสู่โลกแห่งวิทยาศาสตร์อันน่าทึ่งด้วยความรู้ทางวิทยาศาสตร์ พร้อมเรื่องราวเกี่ยวกับวิธีการทำงานอันน่าทึ่งของจักรวาลของเรา</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t518/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="ทรูพรีเมียร์ฟุตบอล4.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE PREMIER FOOTBALL 4</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/ht114/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="TNN2.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">ทรูเลเจนด์ 2018</title>
+    <desc lang="th">เจาะลึกเรื่องราวชีวิตทุกแง่มุมของเหล่าบรรดานักแสดงชาวไทยร่วมสมัยและดาราในตำนานจากจุดเริ่มต้นจวบจนการก้าวขึ้นสู่ความสำเร็จในวงการ</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/074/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์6.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">BEIN SPORT 6</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/216/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="iQIYI.th" start="20261017230000 +0700" stop="20261018000000 +0700">
+    <title lang="th">คืนค่ำและยามอรุณ EP.7</title>
+    <desc lang="th">เรื่องราวความขัดแย้งในช่วงปี 1950 เกี่ยวกับตำรวจรุ่นใหม่และสายลับพรรคคอมมิวนิสต์ที่ร่วมมือกันต่อสู้กับสายลับเจียงไคเชก</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t536/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="ArirangTV.th" start="20261017230000 +0700" stop="20261017233000 +0700">
+    <title lang="th">Rewind It: I'm Live</title>
+    <desc lang="th">เพลิดเพลินไปกับคอนเสิร์ตการแสดงจากเหล่าศิลปินชื่อดังที่คุณชื่นชอบ</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t519/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="ArirangTV.th" start="20261017233000 +0700" stop="20261017235000 +0700">
+    <title lang="th">The Grand Heritage K-Asmr</title>
+    <desc lang="th">ออกสำรวจสถาปัตยกรรม ประวัติศาสตร์ และวัฒนธรรมของเกาหลีผ่านสมบัติทางธรรมชาติ ประเพณีที่เป็นเอกลักษณ์</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t519/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="ArirangTV.th" start="20261017235000 +0700" stop="20261018000000 +0700">
+    <title lang="th">Fishing in the Museum</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t519/20261017/20261017_235000.jpg" />
+  </programme>
+  <programme channel="เอ็นเอฟแอลแอนด์เอ็นบีเอทีวี.th" start="20261017210000 +0700" stop="20261018000000 +0700">
+    <title lang="th">เอเชียนทัวร์ 2026 : มาเกา โอเพน : วันที่</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t513/20261017/20261017_210000.jpg" />
+  </programme>
+  <programme channel="โมโนแมกซ์สปอร์ตส์.th" start="20261017203000 +0700" stop="20261017230500 +0700">
+    <title lang="th">ถ่ายทอดสด Premier League 2026/27</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t543/20261017/20261017_203000.jpg" />
+  </programme>
+  <programme channel="โมโนแมกซ์สปอร์ตส์.th" start="20261017230500 +0700" stop="20261017233500 +0700">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+    <desc lang="th">รายการข่าวในพระราชสำนัก</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t543/20261017/20261017_230500.jpg" />
+  </programme>
+  <programme channel="โมโนแมกซ์สปอร์ตส์.th" start="20261017233500 +0700" stop="20261018000000 +0700">
+    <title lang="th">เทปบันทึกภาพการแข่งขันกีฬา</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t543/20261017/20261017_233500.jpg" />
+  </programme>
+  <programme channel="GolfPlus.th" start="20261017210000 +0700" stop="20261018000000 +0700">
+    <title lang="th">2026 KLPGA TOUR ICEBERG GOLF . SEOUL SHI</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t542/20261017/20261017_210000.jpg" />
+  </programme>
+  <programme channel="ช่องทดสอบออกอากาศที่2.th" start="20261017203000 +0700" stop="20261017230500 +0700">
+    <title lang="th">ถ่ายทอดสด Premier League 2026/27</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tmp005/20261017/20261017_203000.jpg" />
+  </programme>
+  <programme channel="ช่องทดสอบออกอากาศที่2.th" start="20261017230500 +0700" stop="20261017233500 +0700">
+    <title lang="th">ข่าวในพระราชสำนัก</title>
+    <desc lang="th">รายการข่าวในพระราชสำนัก</desc>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tmp005/20261017/20261017_230500.jpg" />
+  </programme>
+  <programme channel="ช่องทดสอบออกอากาศที่2.th" start="20261017233500 +0700" stop="20261018000000 +0700">
+    <title lang="th">เทปบันทึกภาพการแข่งขันกีฬา</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tmp005/20261017/20261017_233500.jpg" />
+  </programme>
+  <programme channel="TrueBallThai2.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE BALL THAI 2</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/vc02/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="TrueBallThai3.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE BALL THAI 3</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/vc03/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="TrueBallThai4.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE BALL THAI 4</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/vc07/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="TrueBallThai5.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE BALL THAI 5</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev015/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="TrueBallThai6.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE BALL THAI 6</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev016/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="TrueBallThai7.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE BALL THAI 7</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev017/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="TrueBallThai8.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE BALL THAI 8</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev018/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="TrueBallThai9.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">TRUE BALL THAI 9</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev019/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์4.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">BEIN SPORT 4</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/217/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์7.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">BEIN SPORT 7</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev021/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์8.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">BEIN SPORT 8</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev022/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์9.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">BEIN SPORT 9</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev023/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="บีอินสปอตส์10.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">BEIN SPORT 10</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/tev024/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="NHKWorldPremium.th" start="20261017223000 +0700" stop="20261017233000 +0700">
+    <title lang="th">JAPAN CUP 2026 CHEERLEADING CHAMPIONSHIP</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/210/20261017/20261017_223000.jpg" />
+  </programme>
+  <programme channel="NHKWorldPremium.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">Japanese Entertainment Encyclopedia</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/210/20261017/20261017_233000.jpg" />
+  </programme>
+  <programme channel="MotoGP1.th" start="20261017220000 +0700" stop="20261018000000 +0700">
+    <title lang="th">MOTO GP 1</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t527/20261017/20261017_220000.jpg" />
+  </programme>
+  <programme channel="SOULSIAM.th" start="20261017230000 +0700" stop="20261017233000 +0700">
+    <title lang="th">SAD MODE - เศร้าวนไป</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t538/20261017/20261017_230000.jpg" />
+  </programme>
+  <programme channel="SOULSIAM.th" start="20261017233000 +0700" stop="20261018000000 +0700">
+    <title lang="th">HOPE MODE - ยังมีหวัง</title>
+    <icon src="https://epgthumb.stm.trueid.net/thumbnail_large/t538/20261017/20261017_233000.jpg" />
+  </programme>
+</tv>
