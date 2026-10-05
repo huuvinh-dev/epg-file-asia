@@ -1,0 +1,728 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="tvb">
+  <channel id="TVBPlus.hk">
+    <display-name lang="zh">TVB Plus</display-name>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </channel>
+  <channel id="TVBNewsChannel.hk">
+    <display-name lang="zh">無綫新聞台</display-name>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </channel>
+  <channel id="Jade.hk">
+    <display-name lang="zh">翡翠台</display-name>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </channel>
+  <channel id="Pearl.hk">
+    <display-name lang="zh">明珠台</display-name>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </channel>
+  <programme channel="TVBPlus.hk" start="20261024060000 +0800" stop="20261024063000 +0800">
+    <title lang="zh">兄弟幫[粵]</title>
+    <desc lang="zh">八十年代是香港樂壇的黃金時期，黃翊與黃寶欣亦曾一起見證這段光輝歲月。寶欣初出道的一曲&lt;酒杯敲鋼琴&gt;唱至街知巷聞，唱片銷量更達雙白金，她卻稱當酒廊歌手的收入更豐厚？阿翊則揭示當年的新秀得獎歌手未推出唱片之前，公司會先安排他們到酒廊演唱。樂壇踏入九十年代，仿似有着歌手不可拍拖的不成文規定。阿翊與寶欣當年戀愛大過天，現時回看可感後悔？二人過往的戀事還有不少內情，寶欣更會絕密透露一次從未公開的對談內容！</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024063000 +0800" stop="20261024070000 +0800">
+    <title lang="zh">兄弟幫[粵]</title>
+    <desc lang="zh">上回提到黃翊與黃寶欣當年不惜為愛情犧牲事業，他們還會細說如何度過艱難時期。二人起初經常到內地登台，收入不成問題，但逐漸因為人氣下滑，工作越來越少。他們難忘某年的年三十晚，銀行戶口只剩下二千多元！阿翊及後赴馬來西亞拍電視劇，寶欣則留港發展。二人相隔異地，戀情亦告轉淡，寶欣還「投訴」阿翊欠缺交代！他們因《流行經典50年》復出，阿翊於2018年再推出唱片，更特別邀請寶欣合唱，阿翊竟笑稱這與「面子」有關？</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024070000 +0800" stop="20261024073000 +0800">
+    <title lang="zh">娛樂新聞報道[粵]</title>
+    <desc lang="zh">每晚緊貼香港娛樂圈的消息，以至世界各地的影視娛樂新聞，報道藝人最新動態、劇集和電影宣傳、演唱會精華、頒獎禮盛況等，甚至遠赴外地採訪娛樂盛事、追蹤各地影星，專訪觀眾熟悉的歌、影、視紅人，讓大家瞬間掌握影視娛樂圈的動態和最新消息。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024073000 +0800" stop="20261024080000 +0800">
+    <title lang="zh">主廚湘遇記[粵/普]</title>
+    <desc lang="zh">廣坦在湖南接觸到中國四大名種豬之一的寧鄉花豬，並且在當地主廚的指導下，完成湘菜的代表菜式，辣椒炒肉；之後到訪當地的美食研究所，創辦人教他怎樣煮黃燜鱖魚；之後他分享自己家鄉的招牌菜，羊肚菌奶油燉雞。</desc>
+    <icon src="https://programme.tvb.com/thumbor/3v1A4yZG0LfiU5xjIPZMjcv7TEg=/1920x1080/public/programme/banner/202610/def025f3-0f29-4787-bd8b-7406cc242833.jpeg" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024080000 +0800" stop="20261024083000 +0800">
+    <title lang="zh">這一站阿拉伯[粵]</title>
+    <desc lang="zh">凱晴來到阿曼第一大城市Nizwa，參觀一座建於1650年的城堡，內裏有市集、傳統歌舞表演等，呈現沙漠地區生活模式。適逢城堡旁辦羊市集，非常熱鬧，而鄰近的傳統市集則可買到阿拉伯傳統用品、香料。周邊地區有不少古老蹤跡，包括建於12世紀的小鎮Bahla Fort，以及被椰棗樹包圍的Jibreen Castle，凱晴還到神秘廢墟探秘。中東地質資源豐富，有獨特的黃土山景，還有個險峻的天坑「泳池」。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024083000 +0800" stop="20261024090000 +0800">
+    <title lang="zh">開餐：台灣3點3[粵]</title>
+    <desc lang="zh">思霆相約兩位拍檔到簡約風餐廳，精緻可愛風的下午茶點心「4X4宮格」在煙霧裡登場，衝擊的效果正迎合這集的「視覺系下午茶」主題。映暉所選的偵探風餐廳，除了掩人耳目的裝潢，出品亦非常型格，飲品「深水炸彈客」製造澎湃泡沫，還有以朱古力粉打造豹紋圖案的拿鐵咖啡。思霆推介精緻視覺系美食，香脆千層口感豐富、蘋果外形的甜點內有乾坤。宇夫帶來可愛風下午茶，披薩上的巨型動物形狀棉花糖爆發少女心，令主持們不忍破壞！</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024090000 +0800" stop="20261024150500 +0800">
+    <title lang="zh">賽馬直擊 - 覺士盾賽馬日[粵/英][馬會]</title>
+    <desc lang="zh">覺士盾賽馬日</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024150500 +0800" stop="20261024153000 +0800">
+    <title lang="zh">美食新聞報道[粵]</title>
+    <desc lang="zh">張與辰帶暉哥到訪深水埗一間堅持傳統手藝的老字號麵店。鮮蝦雲吞包含原隻大蝦，爽口飽滿，湯底以大量豬骨熬煮，鮮味濃郁；蝦子撈麵鹹香惹味，麵質彈牙。與辰更在老闆指導下親身學習包雲吞。施焯日帶行仔造訪獲鄧達智推介、主打手工順德菜的餐廳，品嚐地道風味美食。缽仔焗魚腸甘香滑嫩，層次豐富；豉汁柚皮蒸金錢鱔肉質爽滑，柚皮盡吸醬汁精華；豉油王炒陳村粉米香十足，口感煙韌；手磨薑汁撞奶嫩滑細膩，薑香與奶香完美交織。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024153000 +0800" stop="20261024160000 +0800">
+    <title lang="zh">美食新聞報道[粵]</title>
+    <desc lang="zh">星廚莫燦霖帶伍倩彤品嚐潮汕滷水火鍋，先享用烤護心肉串，焦香四溢。香料味濃郁的滷水湯底搭配獅頭鵝粉肝、鵝心，以及吊龍、五花趾等牛肉不同部位，別具風味。伍倩彤再與行仔到訪元朗的大閘蟹專門店，品嚐正宗陽澄湖大閘蟹之餘，分享辨別真偽及分辨公乸的方法，並示範拆蟹技巧。二人亦品嚐江蘇蟹，比較與陽澄湖大閘蟹的不同之處。沙田一間復古風美式甜品店的冧酒香蕉拖肥撻、檸檬薄曲奇及黑朱古力軟心曲奇，皆是必吃之選。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024160000 +0800" stop="20261024163000 +0800">
+    <title lang="zh">最強生命線[粵] 及 語你同行三十載[粵]</title>
+    <desc lang="zh">玫瑰座瘡是一種慢性面部皮膚發炎疾病，常見於30至50歲確診，飲食偏好辛辣、長期受紫外線照射、面部蠕型蟎蟲過度緊殖，以及面對高壓環境，都容易誘發或加重病情。患者因為面部血管過度擴張及神經敏感度過高，令面部中央出現持續性泛紅、微絲血管擴張、甚至紅腫丘疹及膿疱，若延誤治療或誤用類固醇，症狀可能會加劇，甚至引發酒槽鼻或眼部併發症。</desc>
+    <icon src="https://programme.tvb.com/thumbor/lj6uch3h6HXpKhgE6X-QXSUdiAE=/1920x1080/public/programme/banner/202402/60984ff9-7d28-42b6-b86c-7e70636b1c4d.jpeg" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024163000 +0800" stop="20261024170000 +0800">
+    <title lang="zh">100%吸引力法則[粵/普]</title>
+    <desc lang="zh">家居充滿吸引力，品味家品及擺設絕對是加分法則，層疊鍍梓鐵箱屬收納佳品，美觀時尚。兔子、貝殼造型的銅製連鈎門把，為家居添上情調；大熱紅銅杯、木質餐具同樣是美化家居好幫手，女性家居有何推介？抓住另一半的味蕾也非常重要，人氣自助烘焙教室提供工具、材料及教學影片，還有老師即時指導，DIY愛心甜點無難度！到髮型屋護理頭髮花錢兼費時，專業髮型師教授方便居家的護髮秘技。測試三款保濕足膜，優勝之道全因設計細心？</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024170000 +0800" stop="20261024180000 +0800">
+    <title lang="zh">師父有請[粵]</title>
+    <desc lang="zh">龔嘉欣、陳凱琳、譚凱琪除了是演員之外，更分別進軍飲食界及美容界做「老闆娘」！玲玲師⽗亦會教⼤家催旺⽣意財運的風⽔佈局！</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024180000 +0800" stop="20261024183000 +0800">
+    <title lang="zh">關注關注組[粵]</title>
+    <desc lang="zh">近年越來越多人茹素，當中分有奶素、蛋素、海鮮素等，飲食習慣各有不同。主持區竣陞是不吃紅肉的家禽素食者，甚麼原因令他加入「素食」行列？「日行」這集外出茹素，分別購入「沙嗲燒羊肉」、「肉丸泡菜豆腐鍋」、「菠蘿咕嚕肉」。雖然全是素食，但味道都不俗，行仔更認為「咕嚕肉」的味道與原餸有九成相似！日行外帶了一款「素海南雞飯」回大本營，十郎覺得賣相幾可亂真。此外，兩人還準備了素食的壽司與漢堡，皆獲好評。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024183000 +0800" stop="20261024190000 +0800">
+    <title lang="zh">成長吧！大熊貓[粵] 及 語你同行三十載[粵]</title>
+    <desc lang="zh">節目聚焦中國大熊貓保護研究中心四川臥龍神樹坪基地2021年新生的四隻熊貓寶寶及它們的飼養員們，以“視頻日記”的記錄方式，以全外景拍攝熊貓寶寶的成長過程。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024190000 +0800" stop="20261024193000 +0800">
+    <title lang="zh">女生素舍[粵]</title>
+    <desc lang="zh">看似平平無奇的「咕嚕肉」，其實極考廚師的廚藝！素食專家Pamela與拍檔Gillian和Michelle，今次就來炮製這道「考牌菜」以及健康版「雞尾包」。坊間炮製素咕噜肉多會用菇類扮肉，Pam卻另闢蹊徑用蒟蒻做主角，通過哪些工序能令蒟蒻增加肉的質感？酸酸甜甜的咕噜汁又是如何調配？雞尾包的椰絲餡料最是誘人，卻要用大量牛油！Pam如何調製較健康的餡料？在不用蛋及奶的情況下，她又如何做出鬆軟好味的麵包？</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024193000 +0800" stop="20261024200000 +0800">
+    <title lang="zh">Christian In Paris[粵]</title>
+    <desc lang="zh">走進巴黎最時尚的第三區，愛吃的尚友，聚焦點仍是美食，藝廊、藝術橋、名人故居？前往打個卡即可。法式甜品出名口感層次多，意式甜品側重原料味道，將二者融合又會怎樣？尚友一試造成小巧甜品的果撻與意式芝士餅，滋味無窮。尚友連日來提醒攝製組定要光顧某間人龍餐廳，那裡竟有一歐羅的菜式？入場逼住坐都要見識一下。第三區晚上變身酒吧街，尚友自行調酒，混出中式八角口味。在自家廚房，尚友傳授「法式蘋果酒牛油汁京蔥帶子」。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024200000 +0800" stop="20261024203000 +0800">
+    <title lang="zh">Christian In Paris[粵]</title>
+    <desc lang="zh">跟隨某部美國女生在巴黎工作的浪漫愛情劇集足跡，尚友和愛妻來到劇內的意大利餐廳約會，太太賣口乖讚尚友煮得更美味。尚友笑逐顏開，還耐心為她介紹法、意兩國於烹飪理念的分別。尚友重遊莎士比亞書店，唸着茱麗葉的對白，惟書店竟與莎翁毫無關係？巴黎第五區的著名餅店，檸檬撻已相當好食，但嚐過千層蛋糕後，尚友更感嘆獲獎是實至名歸！口腹得到滿足，他決定嘗試把兩款滋味甜品結合，巧製成「柚子拿破侖配黑朱古力杏仁脆糖」。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024203000 +0800" stop="20261024213000 +0800">
+    <title lang="zh">PET PET 觀察團[粵/日]</title>
+    <desc lang="zh">以觀察貓狗為主題的綜藝節目，捕捉牠們可愛的一舉一動！</desc>
+    <icon src="https://programme.tvb.com/thumbor/iE3u6M5rwmMM-ZdUOf9lFZnVbDA=/1920x1080/public/programme/banner/202605/0b3e7396-0bed-489c-ba55-357a4517fdd2.jpeg" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024213000 +0800" stop="20261024213500 +0800">
+    <title lang="zh">六合彩[粵][馬會]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024213500 +0800" stop="20261024223500 +0800">
+    <title lang="zh">幫緊你醫緊你[粵/日]</title>
+    <desc lang="zh">當我們生病或受傷的時候，最希望有一個可靠的醫生提供意見，節目請來多個醫生，向觀眾講解各種疾病的治療方法、奇難雜症的問與答等等，助你擁有健康人生。</desc>
+    <icon src="https://programme.tvb.com/thumbor/djNbAtxuKWalJA-AJlYLpsh_c_g=/1920x1080/public/programme/banner/202603/ff46dd49-c702-4789-bd7e-658087f3d9d4.jpeg" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024223500 +0800" stop="20261024230500 +0800">
+    <title lang="zh">玲玲友情報[粵][PG]</title>
+    <desc lang="zh">玲玲姐與「第一代天氣女神」黃婉曼相識於馬場，原來婉曼與老公也是在馬場邂逅，還三次碰見！婉曼細談從記者、主播演變成媽媽、馬主的心路歷程轉變，她亦一直力求進步，不時報讀課程學習，過程期間學到了甚麼？一部台慶劇《新聞女王》，令行仔、兆麟對主播增添了好奇，究竟現實中的主播可有劇內的「爭鬥」情節？另外，記者與藝人於現實生活又能否做朋友？玲玲姐認為在乎雙方之間可存在真誠，她更曾因一個搶焦點的標題，大感無奈！</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024230500 +0800" stop="20261024233000 +0800">
+    <title lang="zh">冇人性教育[粵][M]</title>
+    <desc lang="zh">主持帶來六個最想試的性愛地點，隱蔽、開放處所都有。雖然刺激，但要注意相關行為可能觸犯法例！坊間有哪些較受歡迎的性喜好，極端情境亦會引起欲求？而引致殊性癖好的原因，則與「條件反射」有關。敏芝、波波還會模擬做出非一般的愛愛體位。外科醫生兼性治療師概述「戀物」癖人士的行逕，好有畫面！嘉賓並列舉戀物、露體等八大特殊性癖好，兆麟更提到一個恐怖例子，有多極端？性上癮又怎樣定義？大可參考箇中六大特徵。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261024233000 +0800" stop="20261025010500 +0800">
+    <title lang="zh">賽馬預測[粵][馬會]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261025010500 +0800" stop="20261025011000 +0800">
+    <title lang="zh">勁歌推介[粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261025011000 +0800" stop="20261025013500 +0800">
+    <title lang="zh">Christian In Paris[粵]</title>
+    <desc lang="zh">走進巴黎最時尚的第三區，愛吃的尚友，聚焦點仍是美食，藝廊、藝術橋、名人故居？前往打個卡即可。法式甜品出名口感層次多，意式甜品側重原料味道，將二者融合又會怎樣？尚友一試造成小巧甜品的果撻與意式芝士餅，滋味無窮。尚友連日來提醒攝製組定要光顧某間人龍餐廳，那裡竟有一歐羅的菜式？入場逼住坐都要見識一下。第三區晚上變身酒吧街，尚友自行調酒，混出中式八角口味。在自家廚房，尚友傳授「法式蘋果酒牛油汁京蔥帶子」。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261025013500 +0800" stop="20261025020000 +0800">
+    <title lang="zh">女生素舍[粵]</title>
+    <desc lang="zh">看似平平無奇的「咕嚕肉」，其實極考廚師的廚藝！素食專家Pamela與拍檔Gillian和Michelle，今次就來炮製這道「考牌菜」以及健康版「雞尾包」。坊間炮製素咕噜肉多會用菇類扮肉，Pam卻另闢蹊徑用蒟蒻做主角，通過哪些工序能令蒟蒻增加肉的質感？酸酸甜甜的咕噜汁又是如何調配？雞尾包的椰絲餡料最是誘人，卻要用大量牛油！Pam如何調製較健康的餡料？在不用蛋及奶的情況下，她又如何做出鬆軟好味的麵包？</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261025020000 +0800" stop="20261025023000 +0800">
+    <title lang="zh">就是愛美麗[粵/普]</title>
+    <desc lang="zh">子芸、妞妞各自為小牛、韋汝進行臉部局部遮瑕，誰知讓彩妝美人游絲棋「大開眼界」，連忙出手糾正，指出錯處並分享遮瑕秘訣，還傳授臉部暗粒或傷口的遮瑕要點。知名華裔時裝設計師在台北開設品牌旗艦店，小牛試穿吸睛型格服飾，令人眼前一亮；另介紹日本休閒品牌，結合美式風格，剪裁適合亞洲人身型。「愛美麗盲測」，妞妞、韋汝測試日本、韓國、台灣及紐約品牌的黑眼圈遮瑕產品，上班族必備的黑眼圈遮瑕王是……</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261025023000 +0800" stop="20261025030000 +0800">
+    <title lang="zh">美食新聞報道[粵]</title>
+    <desc lang="zh">張與辰帶暉哥到訪深水埗一間堅持傳統手藝的老字號麵店。鮮蝦雲吞包含原隻大蝦，爽口飽滿，湯底以大量豬骨熬煮，鮮味濃郁；蝦子撈麵鹹香惹味，麵質彈牙。與辰更在老闆指導下親身學習包雲吞。施焯日帶行仔造訪獲鄧達智推介、主打手工順德菜的餐廳，品嚐地道風味美食。缽仔焗魚腸甘香滑嫩，層次豐富；豉汁柚皮蒸金錢鱔肉質爽滑，柚皮盡吸醬汁精華；豉油王炒陳村粉米香十足，口感煙韌；手磨薑汁撞奶嫩滑細膩，薑香與奶香完美交織。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261025030000 +0800" stop="20261025033000 +0800">
+    <title lang="zh">美食新聞報道[粵]</title>
+    <desc lang="zh">星廚莫燦霖帶伍倩彤品嚐潮汕滷水火鍋，先享用烤護心肉串，焦香四溢。香料味濃郁的滷水湯底搭配獅頭鵝粉肝、鵝心，以及吊龍、五花趾等牛肉不同部位，別具風味。伍倩彤再與行仔到訪元朗的大閘蟹專門店，品嚐正宗陽澄湖大閘蟹之餘，分享辨別真偽及分辨公乸的方法，並示範拆蟹技巧。二人亦品嚐江蘇蟹，比較與陽澄湖大閘蟹的不同之處。沙田一間復古風美式甜品店的冧酒香蕉拖肥撻、檸檬薄曲奇及黑朱古力軟心曲奇，皆是必吃之選。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBPlus.hk" start="20261025033000 +0800" stop="20261025043000 +0800">
+    <title lang="zh">OT無限loop</title>
+    <desc lang="zh">每晚深夜，公司仲有邊個未收工？有屋企唔返，咁搏命係愛定係責任？閉路電視全程無間斷直擊，《社畜求生101》主角阿星同阿花捱更抵夜職場血淚史！</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1780885236061779_B.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024060000 +0800" stop="20261024063000 +0800">
+    <title lang="zh">香港早晨</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024063000 +0800" stop="20261024070000 +0800">
+    <title lang="zh">香港早晨</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024070000 +0800" stop="20261024073000 +0800">
+    <title lang="zh">香港早晨</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024073000 +0800" stop="20261024080000 +0800">
+    <title lang="zh">香港早晨 及 環球新聞檔案</title>
+    <icon src="https://programme.tvb.com/thumbor/V68Lz6DOFsMPWCsKIo4DHHCK66I=/1920x1080/public/programme/banner/202511/29933b6c-7abb-4dcf-a476-a0b0d52610ca.jpeg" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024080000 +0800" stop="20261024083000 +0800">
+    <title lang="zh">香港早晨</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024083000 +0800" stop="20261024090000 +0800">
+    <title lang="zh">香港早晨</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024090000 +0800" stop="20261024093000 +0800">
+    <title lang="zh">新聞報道 及 俯瞰神州 及 宅谷 Property . hk 地產資訊網特約: 周末睇樓團</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024093000 +0800" stop="20261024100000 +0800">
+    <title lang="zh">新聞報道 及 語你同行三十載 及 寰宇掠影 及 三日天氣預報</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024100000 +0800" stop="20261024103000 +0800">
+    <title lang="zh">新聞報道 及 時事多面睇</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024103000 +0800" stop="20261024104500 +0800">
+    <title lang="zh">新聞報道 及 PicoLabb 特約: 世界觀</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024104500 +0800" stop="20261024110000 +0800">
+    <title lang="zh">新聞報道 及 宅谷 Property . hk 地產資訊網特約: 周末睇樓團</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024110000 +0800" stop="20261024113000 +0800">
+    <title lang="zh">新聞報道 及 寰宇掠影</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024113000 +0800" stop="20261024120000 +0800">
+    <title lang="zh">新聞報道 及 有理說得清 及 三日天氣預報</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024120000 +0800" stop="20261024123000 +0800">
+    <title lang="zh">午間新聞 及 宏利保險呈獻: 灣區零距離</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024123000 +0800" stop="20261024130000 +0800">
+    <title lang="zh">午間新聞 及 時事多面睇</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024130000 +0800" stop="20261024133000 +0800">
+    <title lang="zh">新聞報道 及 俯瞰神州 及 中華掠影</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024133000 +0800" stop="20261024140000 +0800">
+    <title lang="zh">新聞報道 及 寰宇掠影 及 三日天氣預報</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024140000 +0800" stop="20261024143000 +0800">
+    <title lang="zh">新聞報道 及 語你同行三十載</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024143000 +0800" stop="20261024150000 +0800">
+    <title lang="zh">新聞報道 及 PicoLabb 特約: 世界觀</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024150000 +0800" stop="20261024153000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024153000 +0800" stop="20261024160000 +0800">
+    <title lang="zh">新聞報道 及 有理說得清 及 三日天氣預報</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024160000 +0800" stop="20261024161500 +0800">
+    <title lang="zh">新聞報道 及 PicoLabb 特約: 世界觀</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024161500 +0800" stop="20261024163000 +0800">
+    <title lang="zh">新聞報道 及 宅谷 Property . hk 地產資訊網特約: 周末睇樓團</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024163000 +0800" stop="20261024170000 +0800">
+    <title lang="zh">新聞報道 及 俯瞰神州 及 馬百良熬雞精呈獻 : 四季食療</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024170000 +0800" stop="20261024173000 +0800">
+    <title lang="zh">新聞報道 及 宏利保險呈獻: 灣區零距離 及 寰宇掠影</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024173000 +0800" stop="20261024180000 +0800">
+    <title lang="zh">新聞報道 及 三日天氣預報</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024180000 +0800" stop="20261024183000 +0800">
+    <title lang="zh">新聞報道 及 語你同行三十載 及 宅谷 Property . hk 地產資訊網特約: 周末睇樓團</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024183000 +0800" stop="20261024190000 +0800">
+    <title lang="zh">手語新聞報道</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024190000 +0800" stop="20261024193000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024193000 +0800" stop="20261024200000 +0800">
+    <title lang="zh">新聞報道</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024200000 +0800" stop="20261024203000 +0800">
+    <title lang="zh">無綫8點一小時新聞</title>
+    <desc lang="zh">報道本地、兩岸及國際重要新聞，並提供香港當日天氣及預測七日天氣。</desc>
+    <icon src="https://programme.tvb.com/thumbor/GVB4X__eQXmvA-kNW_vOqNGhPfM=/1920x1080/public/programme/banner/202607/4c65b037-6cd2-414e-93e8-d3ca41b9c14a.jpeg" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024203000 +0800" stop="20261024210000 +0800">
+    <title lang="zh">時事中國 及 無綫8點一小時新聞 及 立橋人壽特約: 天氣報告</title>
+    <desc lang="zh">報道本地、兩岸及國際重要新聞，並提供香港當日天氣及預測七日天氣。</desc>
+    <icon src="https://programme.tvb.com/thumbor/GVB4X__eQXmvA-kNW_vOqNGhPfM=/1920x1080/public/programme/banner/202607/4c65b037-6cd2-414e-93e8-d3ca41b9c14a.jpeg" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024210000 +0800" stop="20261024213000 +0800">
+    <title lang="zh">新聞報道 及 語你同行三十載 及 寰宇掠影</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024213000 +0800" stop="20261024215500 +0800">
+    <title lang="zh">新聞報道 及 立橋人壽特約: 天氣報告</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024215500 +0800" stop="20261024220000 +0800">
+    <title lang="zh">宅谷 Property . hk 地產資訊網特約: 周末睇樓團</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024220000 +0800" stop="20261024223000 +0800">
+    <title lang="zh">新聞報道 及 馬百良熬雞精呈獻 : 四季食療</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024223000 +0800" stop="20261024230000 +0800">
+    <title lang="zh">新聞報道 及 三日天氣預報</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024230000 +0800" stop="20261024233000 +0800">
+    <title lang="zh">晚間新聞 及 有理說得清</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261024233000 +0800" stop="20261025000000 +0800">
+    <title lang="zh">晚間新聞 及 時事中國</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025000000 +0800" stop="20261025003000 +0800">
+    <title lang="zh">深宵新聞報道 及 中華掠影 及 宅谷 Property . hk 地產資訊網特約: 周末睇樓團</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025003000 +0800" stop="20261025010000 +0800">
+    <title lang="zh">深宵新聞報道 及 俯瞰神州 及 三日天氣預報</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025010000 +0800" stop="20261025013000 +0800">
+    <title lang="zh">深宵新聞報道 及 宏利保險呈獻: 灣區零距離 及 寰宇掠影</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025013000 +0800" stop="20261025020000 +0800">
+    <title lang="zh">深宵新聞報道 及 馬百良熬雞精呈獻 : 四季食療 及 時事中國</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025020000 +0800" stop="20261025023000 +0800">
+    <title lang="zh">深宵新聞報道 及 中華掠影 及 三日天氣預報</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025023000 +0800" stop="20261025030000 +0800">
+    <title lang="zh">新聞透視</title>
+    <desc lang="zh">《新聞透視》，每周專題報道多段香港以至國際的矚目新聞，聚焦港人最關心的民生話題，並邀請各界人士、學者、專家，一同深入探討箇中來龍去脈。</desc>
+    <icon src="https://programme.tvb.com/thumbor/IJMHkPpYo2F_x1TV7l-y3q0l_Lo=/0x0/public/programme/banner/202302/ff6eb4e1-a604-410c-9655-5655170e6604.jpeg" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025030000 +0800" stop="20261025033000 +0800">
+    <title lang="zh">深宵新聞報道 及 宏利保險呈獻: 灣區零距離 及 寰宇掠影</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025033000 +0800" stop="20261025040000 +0800">
+    <title lang="zh">深宵新聞報道 及 俯瞰神州 及 時事中國</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025040000 +0800" stop="20261025043000 +0800">
+    <title lang="zh">深宵新聞報道 及 中華掠影</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025043000 +0800" stop="20261025050000 +0800">
+    <title lang="zh">新聞透視 及 三日天氣預報</title>
+    <desc lang="zh">《新聞透視》，每周專題報道多段香港以至國際的矚目新聞，聚焦港人最關心的民生話題，並邀請各界人士、學者、專家，一同深入探討箇中來龍去脈。</desc>
+    <icon src="https://programme.tvb.com/thumbor/IJMHkPpYo2F_x1TV7l-y3q0l_Lo=/0x0/public/programme/banner/202302/ff6eb4e1-a604-410c-9655-5655170e6604.jpeg" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025050000 +0800" stop="20261025053000 +0800">
+    <title lang="zh">深宵新聞報道 及 寰宇掠影</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="TVBNewsChannel.hk" start="20261025053000 +0800" stop="20261025063000 +0800">
+    <title lang="zh">深宵新聞報道 及 時事中國</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422159147618_C.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024060000 +0800" stop="20261024074500 +0800">
+    <title lang="zh">香港早晨[粵] 及 環球新聞檔案[粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024074500 +0800" stop="20261024090000 +0800">
+    <title lang="zh">香港早晨[粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024090000 +0800" stop="20261024100000 +0800">
+    <title lang="zh">細味文明[粵/英]</title>
+    <desc lang="zh">遨遊全世界最受歡迎且充滿美態與魅力的旅遊勝地，欣賞美妙的天然奇景、引人入勝的古蹟、精湛的手工藝和迷人的景色。帶觀眾踏上難忘的旅程，融入夢想旅遊目的地的傳統與歷史裡。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024100000 +0800" stop="20261024103000 +0800">
+    <title lang="zh">手匠傳承[粵/韓]</title>
+    <desc lang="zh">斯里蘭卡人的生活與鼓密不可分,  無論是節日慶典、宗教儀式、婚禮甚至喪禮都會打鼓.本集將會介紹兩種斯里蘭卡的傳統鼓-蓋塔貝拉及班庫拉班的製作方法和匠人們的故事.</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024103000 +0800" stop="20261024113000 +0800">
+    <title lang="zh">排檔尋情味[粵/英]</title>
+    <desc lang="zh">一群小販靠著一些不常見的食物和簡樸的小吃維持生計，他們是如何吸引後代加入他們的行列？當他們將自己的飲食文化推廣到海外時，又會發生什麼事？</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024113000 +0800" stop="20261024120000 +0800">
+    <title lang="zh">胡說八道真情假期[粵] 及 潮流生活誌之時尚頭條[粵]</title>
+    <desc lang="zh">胡蓓蔚、姚子羚、胡杏兒、胡定欣換上華麗服裝，參與深受當地人重視的「達爾文盃」賽馬活動，高貴派頭媲美亮相台慶！小注考考「相馬」眼光之後，四人竟踏上舞台行貓步爭妍鬥麗，究竟怎麼回事？在芒果園自製芒果雪糕，美味倍增。貪吃準媽媽杏兒拿着「違禁品」，引來「偷食」疑雲。她們又到海濱主題餐廳騎木馬，細談「那些年」的白馬王子，胡蓓蔚更重提和碧咸的貼身緣分！今集加映黃智雯悉心編排、眾女合拍送上的「胡說八道會」會舞！</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024120000 +0800" stop="20261024122500 +0800">
+    <title lang="zh">兩個小生去Camping[粵]</title>
+    <desc lang="zh">容量極大的帳篷下，Ben與柏豪砌好露營傢俬，還搭置臨時車位，讓歌手嘉賓們泊好座駕，開始豪煮美食。鄭融、HANA、JW自製蟹籽燒賣，柏豪自知做不來，改為大家炮製爆谷。提起爆谷就想起戲院，HANA投訴經常被踢，眾人卻分析出這是「離奇」事件？帳篷亦可變成K房，讓大家一展歌喉。回看柏豪與鄭融逾十年前的MV照，還有Ben參選港男的相片，HANA竟另有着眼點！明明正在用餐中，HANA和柏豪卻還講起尷尬「史」！</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024122500 +0800" stop="20261024125500 +0800">
+    <title lang="zh">周六聊Teen谷[粵]</title>
+    <desc lang="zh">備受世界首富馬斯克推崇的「第一性原理」，究竟是甚麼？據說他當年毅然成立太空科技公司，背後與這思維密不可分！谷主凱婷以下廚做例子，深入淺出講解其核心邏輯。瀅仴聽後直言這思考模式是「尋根究底」，谷主泳嘉卻認為第一性原理不適用於所有決定，有何原因？有指馬斯克等成功人士都具備「見怪都怪」特質，他更大膽打破現有的溝通模式框架，研發透過腦電波溝通的科技！此外，眾谷主又會嘗試討論如何將第一性原理融入現實生活中。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024125500 +0800" stop="20261024130000 +0800">
+    <title lang="zh">滙豐Premier Elite呈獻：《滙豐Premier Elite財富滙談》[粵]</title>
+    <desc lang="zh">金融市場瞬息萬變，加上科技發展日新月異，如何影響投資市場？《滙豐Premier Elite財富滙談》，雲集不同行業專家，剖析市場趨勢，講解金融、投資及理財等話題，務求做到深入淺出，聚焦分析不同議題，為大家捕捉市場先機。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024130000 +0800" stop="20261024131500 +0800">
+    <title lang="zh">午間新聞[粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024131500 +0800" stop="20261024132000 +0800">
+    <title lang="zh">警聲百二秒 IV[粵]</title>
+    <desc lang="zh">《警聲百二秒 IV》引領觀眾「上天下海」、甚至「穿梭過去未來」，並繼續以輕鬆有趣的系列表達方式，讓市民接收豐富的警隊資訊，說好香港警察故事。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024132000 +0800" stop="20261024145000 +0800">
+    <title lang="zh">福祿壽訓練學院[粵][PG]</title>
+    <desc lang="zh">晉級終極面試的50位「扮嘢」參賽者，以綽號吸引導師阮兆祥、王祖藍、李思捷輪流盲選。「選美冠軍」扮演火雞姐，卸妝前後判苦兩人！「大坑小G」道破娛圈殘酷，其心聲一度令祥師兄哽咽！節目「扮工室助理」陳懿德自稱「林太」，如何評價兩位「林峯」？「古惑包皮」、「西貢籮記」、「星爺接班人」都令三位導師略感失望，並忍不住要先行傳授教他們幾招。此外，三位導師亦會作「教材級」示範，癡情基、光B、美B的造型，維肖維妙！</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024145000 +0800" stop="20261024152000 +0800">
+    <title lang="zh">世界養生組織[粵] 及 語你同行三十載[粵]</title>
+    <desc lang="zh">今時今日問10個人有什麼願望，9個人會答:身體健康！這些日子，疫症肆虐，人人都要增強抵抗力，才能與病毒共存；拉闊點看，人類平均壽命延長了，不好好保養自己等老了體弱多病的話，苦了自己也苦了家人，怎過意得去！</desc>
+    <icon src="https://programme.tvb.com/thumbor/he8WQVx4AZOLxaydaa54UsIwLYs=/1920x1080/public/programme/banner/202403/1717d553-22cc-4a53-875c-b0d82fde6ad2.jpeg" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024152000 +0800" stop="20261024155500 +0800">
+    <title lang="zh">地球大神秘[粵]</title>
+    <desc lang="zh">《地球大神秘》在過去兩輯，為大家從世界各地大神秘事物之中尋找出路，從而應對未知的將來，並於即將播放的新一輯節目當中，藉揭開終極神秘Secret X更了解地球奧秘。所謂「前事不忘、後事之師」，我們在新一輯節目播放之前，先播放過往兩輯節目的精選片段，透過重溫部分重點大神秘，讓我們從中得到嶄新啟發，為即將進入更深入的尋秘之旅打下更堅實的基礎。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024155500 +0800" stop="20261024160000 +0800">
+    <title lang="zh">勁歌推介[粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024160000 +0800" stop="20261024163000 +0800">
+    <title lang="zh">星光魔法[粵/日]</title>
+    <desc lang="zh">斐斯麗達來訪，祝和英吉一致同意讓祭參加星光魔法。區內舉行祭典，原先邀請了米露琪登台表演，豈料對方卻因意外無法前來。喵姆建議祭頂替登台，祭本來缺乏信心，但聽過喵姆一席話後終於鼓起勇氣。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024163000 +0800" stop="20261024170000 +0800">
+    <title lang="zh">Hands Up[粵]</title>
+    <desc lang="zh">又到了「WORKOUT 2GETHER」的時間！這次依然由身兼健身教練與註冊中醫師的徐澤昌博士擔任導師。首先是上肢與背部肌力訓練，這些動作能有效放鬆平時因為久坐或閱讀而繃緊的腰頸與背部肌肉；有趣的是，其中一個動作還要求大家展示笑容，讓運動氣氛變得格外輕鬆愉快。經過短暫休息，徐博士再引領大家鍛鍊核心肌肉與平衡力，有助減低日常跌倒受傷的風險。運動過後，「動物好萌友」環節帶大家認識塔摩蘭螳螂這種昆蟲。</desc>
+    <credits>
+      <actor>曹銦玲</actor>
+      <actor>蔡華英</actor>
+      <actor>蔡菀庭</actor>
+      <actor>羅皓誼</actor>
+    </credits>
+    <icon src="https://programme.tvb.com/thumbor/xCvzg2pXbZCg6x8HKpi1wNVFsLQ=/0x0/public/programme/banner/202301/15b19b88-8e54-480a-b395-efceb2893686.jpeg" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024170000 +0800" stop="20261024171500 +0800">
+    <title lang="zh">查查林部隊[粵/英]</title>
+    <desc lang="zh">森林裡神秘怪事頻生。巨大陷阱出現，栗子消失，昆蟲失蹤，橡實從天而降！要交由大偵探Peet和朋友Baba和Molly組成的查查林部隊調查。牠們未必是最能幹的偵探隊，但往往能夠迎刃而解，揭開大自然奧秘。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024171500 +0800" stop="20261024173000 +0800">
+    <title lang="zh">查查林部隊[粵/英]</title>
+    <desc lang="zh">森林裡神秘怪事頻生。巨大陷阱出現，栗子消失，昆蟲失蹤，橡實從天而降！要交由大偵探Peet和朋友Baba和Molly組成的查查林部隊調查。牠們未必是最能幹的偵探隊，但往往能夠迎刃而解，揭開大自然奧秘。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024173000 +0800" stop="20261024180000 +0800">
+    <title lang="zh">安妮的童話[粵/日]</title>
+    <desc lang="zh">安妮在雷德蒙大學努力備考，期間拒絕查理求婚，並與庇斯娜、史黛拉等人計劃合租帕蒂之家。暑假前，她到布林布魯克尋找出生地，意外發現理想中的故居仍在，並取得父母留下的信，重新感受到自己與家人的連繫。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024180000 +0800" stop="20261024182500 +0800">
+    <title lang="zh">大敦煌[粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024182500 +0800" stop="20261024183000 +0800">
+    <title lang="zh">潮流生活誌之時尚頭條[粵]</title>
+    <desc lang="zh">香港，一個中西薈萃、新舊共融的國際都市，不論吃喝、玩樂、購物都多姿多采。節目中主持人會介紹最新的潮流資訊和生活熱話，為你發掘香港更精彩的一面，講究生活和追求時尚的你絕對不能錯過。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024183000 +0800" stop="20261024185500 +0800">
+    <title lang="zh">六點半新聞報道[粵]</title>
+    <desc lang="zh">翡翠台每日下午六點半，報道本地、兩岸及國際重要新聞。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024185500 +0800" stop="20261024190000 +0800">
+    <title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024190000 +0800" stop="20261024193000 +0800">
+    <title lang="zh">新聞透視[粵]</title>
+    <desc lang="zh">近月多區相繼爆水管停水，7月筲箕灣更停水超過一日，影響過萬戶。但根據政府定義，現時每年只有20至40宗爆水管個案，較2000年超過2,500宗水管爆裂個案大幅減少。同一時間，政府近年一再修改水管爆裂的定義，更多個案被列為水管滲漏，有無影響個案宗數呢﹖無論爆水管搶修還是重鋪水管，往往需要開挖道路，對市民造成不便。2002年，政府研究在新區道路下方建造管線隧道，擺放水管、喉管、電纜等各種公用設施，方便日後不必開挖道路做維修。時隔20多年，技術仍在試行階段，廣泛使用有何困難？</desc>
+    <icon src="https://programme.tvb.com/thumbor/IJMHkPpYo2F_x1TV7l-y3q0l_Lo=/0x0/public/programme/banner/202302/ff6eb4e1-a604-410c-9655-5655170e6604.jpeg" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024193000 +0800" stop="20261024193500 +0800">
+    <title lang="zh">語你同行三十載[粵]</title>
+    <desc lang="zh">「深耕三十載 ，語你譜新篇」，教育局、語文教育及研究常務委員會(語常會)三十年來，致力協助在香港推動兩文三語。節目由星級藝員梁凱晴(Carina)、焦浩軒、語常會學生語文大使Anisah Hussain擔綱演出，述說當局如何透過政策藍圖、撥款、教學支援、多元化活動等各方面，讓本港市民，尤其是中小學生提升語文水平，進一步掌握兩文三語的運用。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024193500 +0800" stop="20261024200000 +0800">
+    <title lang="zh">東張西望[粵]</title>
+    <desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+    <credits>
+      <actor>區永權</actor>
+      <actor>朱凱婷</actor>
+      <actor>Patrick Sir</actor>
+      <actor>陳懿德</actor>
+    </credits>
+    <icon src="https://programme.tvb.com/thumbor/TWPkHUoyqb0Zf_F2UeJWm7YHxpk=/0x0/public/programme/banner/202301/7209a732-e395-4dfd-ad0e-8ebbca904ec8.jpeg" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024200000 +0800" stop="20261024203000 +0800">
+    <title lang="zh">香港系列之細間始終你好[粵]</title>
+    <desc lang="zh">祥師兄到大西北「搵食」，元朗有間蠔餅店，能夠吸引人跨區前往，食材方面極講究，還樂於為顧客開店至凌晨一時才收工！轉往屯門某食品廠，祥師兄深入了解蝦子花生耗時三天的製作工序。負責人預告兩年後會退休？只嘆後繼無人。毛孩主人或不吝惜讓主子光顧美容店，流浪狗、待領養的狗隻又會如何？幸有寵物美容店老闆願意為牠們免費服務。祥師兄親手替截肢犬多多洗澡，還藉此探訪由慈善團體運作的動物庇護站，並與創辦人探討營辦難處。</desc>
+    <credits>
+      <actor>阮兆祥</actor>
+    </credits>
+    <icon src="https://programme.tvb.com/thumbor/pUx_83thuPL7LrJauOLF4ZrD_Q4=/1920x1080/public/programme/banner/202602/7863ec18-fcf9-4543-93cc-324160d15be4.jpeg" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024203000 +0800" stop="20261024210000 +0800">
+    <title lang="zh">香港旅遊發展局呈獻：香港連場好戲[粵]</title>
+    <desc lang="zh">任達華當年因《歲月神偷》榮封金像獎影帝，他重返電影取景地，回味六十年代香港情懷。永利街經復修後成打卡點，華哥為兩主持拍攝出人在情在意境！在《胭脂扣》引領下漫步水池巷，再乘電車穿梭光影與時光之間。到復古風餐廳歎下午茶，感受《傾城之戀》的浪漫氛圍；走進《重慶森林》，探索中環半山扶手電梯一帶的戲劇想像。彌敦道街景與大排檔風味交織出獨有街頭文化，兩主持尋找《梅艷芳》印記。另外，導演陳詠燊細說光影展覽特色。</desc>
+    <credits>
+      <actor>黎諾懿</actor>
+      <actor>賴慰玲</actor>
+    </credits>
+    <icon src="https://programme.tvb.com/thumbor/1Y9MoeuYBh-zKKpFmP6k6R8_Eig=/1920x1080/public/programme/banner/202610/0fbfc5a7-d377-4f7f-9163-8bb203099741.jpeg" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024210000 +0800" stop="20261024231500 +0800">
+    <title lang="zh">樹大招風[粵][PG]</title>
+    <desc lang="zh">故事背景是1997年主權移交在即的香港，講述當時三大賊王的犯罪經歷，反映在轉變之中，三人心緒如何遭受衝擊。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024231500 +0800" stop="20261024233000 +0800">
+    <title lang="zh">晚間新聞[粵]</title>
+    <desc lang="zh">報道本地、兩岸、國際重要新聞以及體育消息，讓你洞悉各地大事及體壇動向。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024233000 +0800" stop="20261024233500 +0800">
+    <title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261024233500 +0800" stop="20261025000500 +0800">
+    <title lang="zh">香港賽馬會特約：J Sport[粵] 及 潮流生活誌之時尚頭條[粵]</title>
+    <desc lang="zh">藝員陳頌天曾是武術港隊前代表，他細訴昔日運動員生涯，以及現時開班培育新一代的點滴。武術青年港隊有不少潛力新星，成員們暢談擅長項目，並分享獲國際殊榮的心情。汽車扭樽亞錦賽首次登陸香港，幾十位精英車手同場比拼，考驗對操控汽車的精準技術。總領事盃跆拳道大賽集結居港韓國人，透過競技推廣運動文化。花墟細運會啟動港超票尾優惠活動，還設新興運動體驗區供市民參與。另送上港超足球戰報，以及亞洲職業匹克球巡迴賽花絮。</desc>
+    <credits>
+      <actor>鄭衍峰</actor>
+      <actor>何振然</actor>
+      <actor>何泳芍</actor>
+      <actor>曾文心</actor>
+    </credits>
+    <icon src="https://programme.tvb.com/thumbor/Ylmr3F3v-Wy1_BjtnvdNFmRLKII=/1920x1080/public/programme/banner/202510/077422ad-c5cd-426a-8f0e-45dfe2e88b39.jpeg" />
+  </programme>
+  <programme channel="Jade.hk" start="20261025000500 +0800" stop="20261025010500 +0800">
+    <title lang="zh">飛虎3壯志英雄#15[粵][PG]</title>
+    <desc lang="zh">高子樂辭職，想用自己的方法調查瓦干布事件，他當上杜以盈的保鏢；同時警方也沒有放棄追查製造和販賣化武的幕後黑手；董啟超與杜文彬在一慈善活動上相遇，兩人明爭暗鬥，董啟超就是要趁人多時好好教訓杜文彬。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261025010500 +0800" stop="20261025013500 +0800">
+    <title lang="zh">東張西望[粵]</title>
+    <desc lang="zh">《東張西望》星期一至日，緊貼追蹤社會大事、趣聞逸事，並報道娛樂圈最新動態、藝人消息，以及劇集宣傳和花絮。「今日突發」環節為大家追蹤即日熱門新聞；專題環節，深入探討大眾關心的時事、社會及民生問題，並訪問相關的專家。</desc>
+    <credits>
+      <actor>區永權</actor>
+      <actor>朱凱婷</actor>
+      <actor>Patrick Sir</actor>
+      <actor>陳懿德</actor>
+    </credits>
+    <icon src="https://programme.tvb.com/thumbor/TWPkHUoyqb0Zf_F2UeJWm7YHxpk=/0x0/public/programme/banner/202301/7209a732-e395-4dfd-ad0e-8ebbca904ec8.jpeg" />
+  </programme>
+  <programme channel="Jade.hk" start="20261025013500 +0800" stop="20261025020500 +0800">
+    <title lang="zh">兩個小生去Camping[粵]</title>
+    <desc lang="zh">容量極大的帳篷下，Ben與柏豪砌好露營傢俬，還搭置臨時車位，讓歌手嘉賓們泊好座駕，開始豪煮美食。鄭融、HANA、JW自製蟹籽燒賣，柏豪自知做不來，改為大家炮製爆谷。提起爆谷就想起戲院，HANA投訴經常被踢，眾人卻分析出這是「離奇」事件？帳篷亦可變成K房，讓大家一展歌喉。回看柏豪與鄭融逾十年前的MV照，還有Ben參選港男的相片，HANA竟另有着眼點！明明正在用餐中，HANA和柏豪卻還講起尷尬「史」！</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261025020500 +0800" stop="20261025023000 +0800">
+    <title lang="zh">周六聊Teen谷[粵]</title>
+    <desc lang="zh">備受世界首富馬斯克推崇的「第一性原理」，究竟是甚麼？據說他當年毅然成立太空科技公司，背後與這思維密不可分！谷主凱婷以下廚做例子，深入淺出講解其核心邏輯。瀅仴聽後直言這思考模式是「尋根究底」，谷主泳嘉卻認為第一性原理不適用於所有決定，有何原因？有指馬斯克等成功人士都具備「見怪都怪」特質，他更大膽打破現有的溝通模式框架，研發透過腦電波溝通的科技！此外，眾谷主又會嘗試討論如何將第一性原理融入現實生活中。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261025023000 +0800" stop="20261025030000 +0800">
+    <title lang="zh">胡說八道真情假期[粵]</title>
+    <desc lang="zh">胡蓓蔚、姚子羚、胡杏兒、胡定欣換上華麗服裝，參與深受當地人重視的「達爾文盃」賽馬活動，高貴派頭媲美亮相台慶！小注考考「相馬」眼光之後，四人竟踏上舞台行貓步爭妍鬥麗，究竟怎麼回事？在芒果園自製芒果雪糕，美味倍增。貪吃準媽媽杏兒拿着「違禁品」，引來「偷食」疑雲。她們又到海濱主題餐廳騎木馬，細談「那些年」的白馬王子，胡蓓蔚更重提和碧咸的貼身緣分！今集加映黃智雯悉心編排、眾女合拍送上的「胡說八道會」會舞！</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261025030000 +0800" stop="20261025033500 +0800">
+    <title lang="zh">世界養生組織[粵]</title>
+    <desc lang="zh">今時今日問10個人有什麼願望，9個人會答:身體健康！這些日子，疫症肆虐，人人都要增強抵抗力，才能與病毒共存；拉闊點看，人類平均壽命延長了，不好好保養自己等老了體弱多病的話，苦了自己也苦了家人，怎過意得去！</desc>
+    <icon src="https://programme.tvb.com/thumbor/he8WQVx4AZOLxaydaa54UsIwLYs=/1920x1080/public/programme/banner/202403/1717d553-22cc-4a53-875c-b0d82fde6ad2.jpeg" />
+  </programme>
+  <programme channel="Jade.hk" start="20261025033500 +0800" stop="20261025040500 +0800">
+    <title lang="zh">手匠傳承[粵/韓]</title>
+    <desc lang="zh">斯里蘭卡人的生活與鼓密不可分,  無論是節日慶典、宗教儀式、婚禮甚至喪禮都會打鼓.本集將會介紹兩種斯里蘭卡的傳統鼓-蓋塔貝拉及班庫拉班的製作方法和匠人們的故事.</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261025040500 +0800" stop="20261025050000 +0800">
+    <title lang="zh">排檔尋情味[粵/英]</title>
+    <desc lang="zh">一群小販靠著一些不常見的食物和簡樸的小吃維持生計，他們是如何吸引後代加入他們的行列？當他們將自己的飲食文化推廣到海外時，又會發生什麼事？</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Jade.hk" start="20261025050000 +0800" stop="20261025060000 +0800">
+    <title lang="zh">細味文明[粵/英]</title>
+    <desc lang="zh">遨遊全世界最受歡迎且充滿美態與魅力的旅遊勝地，欣賞美妙的天然奇景、引人入勝的古蹟、精湛的手工藝和迷人的景色。帶觀眾踏上難忘的旅程，融入夢想旅遊目的地的傳統與歷史裡。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422138902172_J.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024060000 +0800" stop="20261024090000 +0800">
+    <title lang="zh">金融概要[英]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024090000 +0800" stop="20261024093000 +0800">
+    <title lang="zh">澳洲滋味精選[英]</title>
+    <desc lang="zh">這次旅程從澳洲的精神中心烏魯魯走到政治之都坎培拉。澳洲的國菜會是三文治嗎？我們坐船吃烤肉三文治、炮製煙肉蛋三文治和探索民主香腸的歷史。最終我們決定讓澳洲人民投票選出國菜，記住收看投票結果。</desc>
+    <icon src="https://programme.tvb.com/thumbor/kKF3vR4akZx-AN7xUVweXj6sUt8=/1920x1080/public/programme/banner/202503/b6692921-55b9-4d6e-826a-938e6903c1d1.jpeg" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024093000 +0800" stop="20261024100000 +0800">
+    <title lang="zh">新造電視[英/粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024100000 +0800" stop="20261024110000 +0800">
+    <title lang="zh">權能時間[英/粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024110000 +0800" stop="20261024113000 +0800">
+    <title lang="zh">貼地鐵路遊[英]</title>
+    <desc lang="zh">今集，在火車上多待12小時後，我們就來到馬尼托巴省。米高和韋爾去了做瑜伽、品嘗原住民食物、去玩冰壺。他們在短公路旅行中遇到最大的冰島人聚居地、船博物館、海峽鯰魚查克，還在北歐溫泉盡情放鬆和吃喝。</desc>
+    <icon src="https://programme.tvb.com/thumbor/w1oDhY955dTBLwSU058oFlfNqKs=/1920x1080/public/programme/banner/202505/97e90c85-91d0-4144-b153-0b5f55f54293.jpeg" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024113000 +0800" stop="20261024120000 +0800">
+    <title lang="zh">明珠雜誌[英]</title>
+    <desc lang="zh">《明珠雜誌》每星期為香港及世界各地觀眾，緊貼分析本地時事及國際大事。專業記者團隊的報道遍及社會、政治、教育、醫療健康，以至經濟和商業趨勢等範疇。</desc>
+    <icon src="https://programme.tvb.com/thumbor/C3vZ3KGlUMgAVF3nqMOkOuPQsMk=/0x0/public/programme/banner/202302/21492022-c789-481a-9eec-1411508ae891.jpeg" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024120000 +0800" stop="20261024123000 +0800">
+    <title lang="zh">Mia Cucina by Towngas Lifestyle特約:清心直說[英]</title>
+    <desc lang="zh">"Can Hong Kong become the world's top professional tennis city?"</desc>
+    <icon src="https://programme.tvb.com/thumbor/IXG62tUvXFh9UKdqhJc0TzUOkMk=/0x0/public/programme/banner/202302/78df66ef-89da-41f3-8b3f-8b8ec1565978.jpeg" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024123000 +0800" stop="20261024130000 +0800">
+    <title lang="zh">食盡全世界[英]</title>
+    <desc lang="zh">薩希繼續透過美酒、海鮮和傳統探索塞薩洛尼基。他跟釀酒商弗洛里安坐遊艇出海觀賞城巿，享用希臘美酒；還去了青口養殖場，揭示水溫上升的破壞力。他上奧林匹斯山用時令食材做傳統黑豬肉，最後到酒莊享用海鮮盛宴。</desc>
+    <icon src="https://programme.tvb.com/thumbor/l6Nj-jezlQN7Q4rgmZPrfAVSsKo=/1920x1080/public/programme/banner/202603/5706dfb2-51c5-4007-9c72-b282f5e1a0e4.jpeg" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024130000 +0800" stop="20261024160000 +0800">
+    <title lang="zh">香港哥爾夫球會特約:領展香港高爾夫球公開賽2026[直播][英/粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024160000 +0800" stop="20261024161500 +0800">
+    <title lang="zh">花生動畫[英/粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024161500 +0800" stop="20261024163000 +0800">
+    <title lang="zh">普通話新聞報道[普]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024163000 +0800" stop="20261024170000 +0800">
+    <title lang="zh">機甲芝麻街[英]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024170000 +0800" stop="20261024173000 +0800">
+    <title lang="zh">湯馬仕小火車[英]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024173000 +0800" stop="20261024180000 +0800">
+    <title lang="zh">節拍小天地[英]</title>
+    <desc lang="zh">和Monica一起投入《節拍小天地》。她利用環保回收箱中收集的日常物品，自製手工藝樂器。專業音樂家和少年樂手會到節拍小天地中即興表演。他們的樂器是Monica製作的手工藝樂器的靈感來源。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024180000 +0800" stop="20261024190000 +0800">
+    <title lang="zh">台慶鉅獻:野性王國[英]</title>
+    <desc lang="zh">豹媽媽奧林巴在贊比亞名為恩塞富的理想豹棲息地撫養兩隻幼崽。但不久後，野狗風暴帶領野狗群到來，破壞牠的平靜生活。當這些野狗開始在奧林巴的地盤安頓下來，並迎來一窩野狗幼崽時，一群強大的獅子出現了。</desc>
+    <icon src="https://programme.tvb.com/thumbor/sFrT2fCxqb_mjdgcvcjPTQTM35c=/1920x1080/public/programme/banner/202610/8e26d8b8-12ca-48a3-857d-5a958d97b0a3.jpeg" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024190000 +0800" stop="20261024193000 +0800">
+    <title lang="zh">優遊假期[英]</title>
+    <desc lang="zh">今集主持荷莉和米高同遊馬爾代夫。第一個度假村除了提供美食、水上活動，還有手工藝班。第二個度假村有個規模稱霸馬爾代夫的健體中心，設有養生禮賓司和一隊養生保健專家。</desc>
+    <icon src="https://programme.tvb.com/thumbor/WfJe1TiTOr995IKzXYF_FyCgM68=/1920x1080/public/programme/banner/202610/db83bf50-943a-4676-80eb-2aac5fc94db4.jpeg" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024193000 +0800" stop="20261024195500 +0800">
+    <title lang="zh">七點半新聞報道[英]</title>
+    <desc lang="zh">明珠台每日晚上七時半，以英語報道本地、兩岸及國際重要新聞，讓你洞悉各地大事。</desc>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024195500 +0800" stop="20261024200000 +0800">
+    <title lang="zh">天氣報告[英] 及 100道風味[英]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024200000 +0800" stop="20261024203000 +0800">
+    <title lang="zh">藍海世界[英]</title>
+    <desc lang="zh">影視紅星喬莉卡特加入藍海世界攝製組，為了學習水肺式潛水。首先，她在洛杉磯跟隨一位教練海爾，完成了課室和泳池的課程。然後她去小開曼島與喬納森等人會合，在大海實習，希望考取潛水證。</desc>
+    <icon src="https://programme.tvb.com/thumbor/S8wSDau4ZloYcPoh9Rn5dyDU2gE=/1920x1080/public/programme/banner/202607/09a33861-faa3-49f9-95c3-0eb278f87882.jpeg" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024203000 +0800" stop="20261024213000 +0800">
+    <title lang="zh">火熱非洲[英]</title>
+    <desc lang="zh">獰貓生活在與其顏色相同的環境和植被中，難以被發現，行動隱密無聲，是偽裝大師，也是乾燥沙漠和稀樹草原的專家，只要獵物身上有足夠血液，牠可長時間不喝水…</desc>
+    <icon src="https://programme.tvb.com/thumbor/uGmZaKcP3jcOEUqhBBayqexo1l8=/1920x1080/public/programme/banner/202609/0bc9430a-a114-4c40-b942-8793d85b9f6e.jpeg" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024213000 +0800" stop="20261024235000 +0800">
+    <title lang="zh">百老匯國際呈獻:明珠930:朱古力獎門人[英/粵]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261024235000 +0800" stop="20261025001000 +0800">
+    <title lang="zh">晚間新聞[英]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261025001000 +0800" stop="20261025004000 +0800">
+    <title lang="zh">藍海世界[英]</title>
+    <desc lang="zh">影視紅星喬莉卡特加入藍海世界攝製組，為了學習水肺式潛水。首先，她在洛杉磯跟隨一位教練海爾，完成了課室和泳池的課程。然後她去小開曼島與喬納森等人會合，在大海實習，希望考取潛水證。</desc>
+    <icon src="https://programme.tvb.com/thumbor/S8wSDau4ZloYcPoh9Rn5dyDU2gE=/1920x1080/public/programme/banner/202607/09a33861-faa3-49f9-95c3-0eb278f87882.jpeg" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261025004000 +0800" stop="20261025012500 +0800">
+    <title lang="zh">中國24小時[英]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261025012500 +0800" stop="20261025013000 +0800">
+    <title lang="zh">世界真細小[英]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261025013000 +0800" stop="20261025020000 +0800">
+    <title lang="zh">金融概要[英]</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+  <programme channel="Pearl.hk" start="20261025020000 +0800" stop="20261025030000 +0800">
+    <title lang="zh">貓咪小夜曲</title>
+    <icon src="https://assets.mytvsuper.com/channel/1779422173238314_P.webp" />
+  </programme>
+</tv>

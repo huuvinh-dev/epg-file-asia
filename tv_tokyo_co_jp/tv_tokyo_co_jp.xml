@@ -1,0 +1,703 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="tv_tokyo_co_jp">
+  <channel id="BSTVTokyo.jp@SD">
+    <display-name lang="ja">BSテレ東</display-name>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/logo--bstvtokyo.svg" />
+  </channel>
+  <channel id="BSTVTokyo4K.jp@SD">
+    <display-name lang="ja">BSテレ東 4K</display-name>
+    <icon src="https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg" />
+  </channel>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024030000 +0800" stop="20261024043000 +0800">
+    <title lang="zh">マル得！ショッピング　週末早起きＳＰ</title>
+    <desc lang="zh">ジャパネットたかたのテレビショッピング！毎週土曜早朝4時～5時半にレギュラー番組でお届け！ジャパネットならではの大特価商品が登場？お見逃しなく！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024043000 +0800" stop="20261024050000 +0800">
+    <title lang="zh">テレビショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024050000 +0800" stop="20261024053000 +0800">
+    <title lang="zh">ＢＳテレ東Ｓｈｏｐ</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/d8/03/3ea08bb71ba8c28055d125af30e3.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024053000 +0800" stop="20261024060000 +0800">
+    <title lang="zh">テレビショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024060000 +0800" stop="20261024063000 +0800">
+    <title lang="zh">ジャパ得！ショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024063000 +0800" stop="20261024070000 +0800">
+    <title lang="zh">孝太郎の爽快ゴルフバトル！【柴田英嗣と真剣バトル！初戦】</title>
+    <desc lang="zh">ゴルフに情熱を注ぐ俳優・小泉孝太郎がゲストと１対１の真剣勝負！ゴルフのレベルアップを図り、夢のパープレーを目指します。ゲストはお笑い芸人の柴田英嗣！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024070000 +0800" stop="20261024073000 +0800">
+    <title lang="zh">おんがく交差点【『100年に一人の逸材？』フルート奏者上野星矢】</title>
+    <desc lang="zh">▼ゲストは「100年に1人の逸材」と呼ばれるフルート奏者　上野星矢さん！▼大学1年生の時、ジャン＝ピエール・ランパル国際フルートコンクールで優勝！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/4bb5332105bbd165ae573bf0621fb1c8.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024073000 +0800" stop="20261024080000 +0800">
+    <title lang="zh">エンター・ザ・ミュージック　黛敏郎「シンフォニック・ムード」</title>
+    <desc lang="zh">黛敏郎がフランス留学直前の21歳で生み出した「シンフォニック・ムード」を特集。時代背景や楽曲の特徴を紐解きながら、東京シティ・フィルによる名演をお届けする。</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/17/3e/987c37b2c60158ea6b41d11024f8.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024080000 +0800" stop="20261024083000 +0800">
+    <title lang="zh">一柳良雄が問う　日本の未来【作る産業から稼ぐ産業へ】</title>
+    <desc lang="zh">▼作るだけでは未来はない？第一次産業に必要な「稼ぐ力」とは▼「食べチョク」の挑戦から、一柳が農林漁業の未来を考える　　（2026年10月17日の再放送）</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/965ae3d67b1d9d458d72be39838f4d8c.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024083000 +0800" stop="20261024090000 +0800">
+    <title lang="zh">ＴＨＥ名門校【テレビ学校訪問…大妻中学高等学校】</title>
+    <desc lang="zh">▼早慶上理148人、医学部医学科に34人が合格する伝統女子校▼理科の授業はおよそ半分が実験！卒業生の約半数が理系に進学▼校訓「恥を知れ」に込められた意味とは一体？</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/c0/88/c2cb736e933c8c0ec76075ee984f.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024090000 +0800" stop="20261024095500 +0800">
+    <title lang="zh">モーサテサタデー【ＡＩ活用の投資戦略】</title>
+    <desc lang="zh">▼投資にＡＩ使っていますか？ＡＩ活用の実態は？▼格付け大手に聞く！日本国債の評価は？▼利上げは見送り!?日米欧の金融政策ウイークを展望</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/82/94/55df67e4b85121cc9bb0b04fe000.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024095500 +0800" stop="20261024100000 +0800">
+    <title lang="zh">ガイド</title>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024100000 +0800" stop="20261024103000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024103000 +0800" stop="20261024123000 +0800">
+    <title lang="zh">土曜お昼のミステリー『湯けむりドクター華岡万里子の温泉事件簿７』かたせ梨乃</title>
+    <desc lang="zh">信州奥信濃の渓谷で、あるリンゴの高級ブランド化を画策していたフードプロデューサーが殺害された。医師の華岡万里子（かたせ梨乃）は謎を追うが、第二の事件が起こり…。</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/18caa135d993bc8efcec2f3a79d76b85.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024123000 +0800" stop="20261024125900 +0800">
+    <title lang="zh">美と健康の健やかタイム</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024125900 +0800" stop="20261024133000 +0800">
+    <title lang="zh">美と健康の健やかタイム</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024133000 +0800" stop="20261024150000 +0800">
+    <title lang="zh">ウイニング競馬～東京～</title>
+    <desc lang="zh">【東京】１０Ｒ日本農業新聞杯　　　　１１ＲアルテミスＳ（ＧIII）【京都】１１ＲカシオペアＳ（Ｌ）【新潟】１１Ｒ魚沼ステークス</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/b4/52/5ff519276452d900dfae5cf78df6.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024150000 +0800" stop="20261024153000 +0800">
+    <title lang="zh">オードリー春日の知らない街で自腹せんべろ▼JR総武線亀戸駅写真館でポスター撮影</title>
+    <desc lang="zh">JR総武線「亀戸駅」は呑兵衛にはたまらない黒帯酒場密集地。ハッピーアワー220円ビール店&amp;amp;開店前から行列ができる酒場&amp;amp;立ち食い寿司まで魅力的なお店のオンパレード</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/6d/ed/363c35f5ca02fbab081b10ce7fdb.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024153000 +0800" stop="20261024163000 +0800">
+    <title lang="zh">いいね！じゃぱん【諏訪湖を臨む長野・岡谷の魅力＆群馬・高崎グルメ】</title>
+    <desc lang="zh">諏訪湖のほとり、山々望む風光明媚なまち岡谷の魅力を紹介！湖上の絶景カフェ＆大迫力揃い打ちの太鼓まつり・絶品うなぎとシルクの意外な関係▽高崎グルメに舌鼓！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/b2/07/be8b92c213209a5fe5f03e7a099b.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024163000 +0800" stop="20261024173000 +0800">
+    <title lang="zh">マル得！ＴＨＥ仕事人～おとなの社会科見学～【サンドアートパフォーマー圧巻の世界】</title>
+    <desc lang="zh">船越英一郎・望月理恵が親子三代続く「秩父銘仙」に感動…伝統を守り抜く職人の想い▼砂を操るサンドパアートフォーマーの世界▼快適寝具のヒットメーカーに迫る</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024173000 +0800" stop="20261024174500 +0800">
+    <title lang="zh">テレビショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024174500 +0800" stop="20261024195400 +0800">
+    <title lang="zh">土曜は寅さん！『男はつらいよ　寅次郎かもめ歌』「幸せにならなきゃ許さねえ」[映]</title>
+    <desc lang="zh">【４Ｋデジタル修復版】さくら夫婦一戸建て購入！寅さんは指名手配犯にそっくりでひと悶着。面倒見る娘の朝帰りに寅さん怒り爆発！マドンナは伊藤蘭。シリーズ第26作！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/f1/ec/11f474a28358a2b6df334ccded88.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024195400 +0800" stop="20261024200000 +0800">
+    <title lang="zh">教えて！ドクター　家族の健康</title>
+    <desc lang="zh">生活習慣病を中心とした病気と主体的に向き合うために必要な情報を木佐彩子と専門医が紐解いていく。【聞き手】木佐彩子（フリーアナウンサー）</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/a4a77e70ffa6037f3e39ec6dceaab739.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024200000 +0800" stop="20261024205500 +0800">
+    <title lang="zh">ワタシが日本に住む理由【クラゲは地球を救う？深海６５００ｍ…研究者パパの夢】</title>
+    <desc lang="zh">クラゲで新薬？気候変動予測？豪州パパ奮闘▼「潜水調査船に乗れる」で海洋生物学者に▼日本はクラゲの宝庫…新種発見して命名！▼湖の別荘で１カ月…家族放って虫を追う？</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/fb/ff/b3e8d35276ab4d006836e7740353.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024205500 +0800" stop="20261024210000 +0800">
+    <title lang="zh">ガイド</title>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024210000 +0800" stop="20261024213000 +0800">
+    <title lang="zh">オードリー春日の知らない街で自腹せんべろ【京成本線お花茶屋駅】渋い酒場巡り</title>
+    <desc lang="zh">訪れるのは葛飾区・京成本線「お花茶屋駅」。常連さんで賑わう黒帯酒場から衝撃100円メニュー店に素敵な大将の激シブ居酒屋など魅力的なお店の数々！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/0f/73/aebe9788635bacce5d1dfd412b81.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024213000 +0800" stop="20261024215400 +0800">
+    <title lang="zh">卓球ＰＲＯＪＥＣＴ２０２８▼キテレツ猪狩&amp;佐々木が卓球選手とスポーツテスト！</title>
+    <desc lang="zh">平野美宇・木原美悠・吉山僚一の現役選手を迎え、選手の運動能力をガチ調査！キテレツ猪狩と佐々木、レジェンド水谷も参戦するが衝撃の結果に！井上瑞稀の卓球挑戦速報も！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/ac/cf/d8b1d97c05f1941afdee90ea6995.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024215400 +0800" stop="20261024220000 +0800">
+    <title lang="zh">わたしのヒュッゲ【料理研究家・小林まさる（前編）】</title>
+    <desc lang="zh">93歳の今もつけている「まさるノート」。料理のレシピはもちろん、思った事を何でも書く。腹が立つ事があった日も書く。まさるノートには、人生のレシピが詰まっている。</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/05/e7/6f1349c8296ccb98044207b8a471.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024220000 +0800" stop="20261024223000 +0800">
+    <title lang="zh">ファッション通信【2027　S/S　Milan　Collection　Report】</title>
+    <desc lang="zh">「2027年春夏ミラノコレクション・レポート」！「プラダ」「グッチ」「ジル・サンダー」「ディーゼル」など華やかなゲスト達を迎えたコレクションサーキットはミラノへ！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/c7/44/08f64ef5ec05bc3c5c9418446047.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024223000 +0800" stop="20261024230000 +0800">
+    <title lang="zh">新美の巨人たち【W.M.ヴォーリズ設計　重要文化財【神戸女学院】×内田有紀】</title>
+    <desc lang="zh">W.M.ヴォーリズ設計【神戸女学院】は学校建築の最高傑作！約4万坪の敷地に12棟もの重要文化財が…一般の人が立ち入ることができないサンクチュアリに内田有紀が迫る</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/7c/c4/49b5659011edf1ce017fe392c935.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024230000 +0800" stop="20261024233000 +0800">
+    <title lang="zh">私があなたといる理由２　第３話【許された浮気心。】</title>
+    <desc lang="zh">グアムを舞台に8人の男女が“本物の愛”と“許し”を模索するヒューマンドラマ▼新たなペアとのデートを楽しむ一同。しかし、見栄を張る多田にはある大きな秘密があり…</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/83/85/25a99ce4f4dc12f3e89cc2cc3dde.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261024233000 +0800" stop="20261025000000 +0800">
+    <title lang="zh">ショップジャパン</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025000000 +0800" stop="20261025002500 +0800">
+    <title lang="zh">スポーツリアライブ</title>
+    <desc lang="zh">“アスリートやその試合に秘められた「Real」を伝え、スポーツの「Live」が体感できる番組”をコンセプトに、野球・サッカー・五輪種目などを独自目線でお届けします！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/1f/a4/ff1303c072c36558ac8da8d1706a.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025002500 +0800" stop="20261025003000 +0800">
+    <title lang="zh">ＷＥＥＫＬＹ　ＰＩＮＧ　ＰＯＮＧ　ＮＥＷＳ</title>
+    <desc lang="zh">PING　PONG(卓球)の魅力をお届けする全く新しい形のニュース番組が誕生！卓球伝道師の福澤朗をMCに迎え、解説委員には謎のパンダ二頭という異色のメンバーでお送りします！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/57/a4/07fce95f9d0bbe6b064c26cfbc43.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025003000 +0800" stop="20261025003500 +0800">
+    <title lang="zh">Ｄの旋律～ダンスと音楽のシンフォニー～</title>
+    <desc lang="zh">ヴァイオリニスト古澤巖が奏でる名曲にのせて、日本の社交ダンス界のトップダンサーがダンスを披露する。今宵は「タンゴの幻影第２楽章(波士敦)」</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025003500 +0800" stop="20261025010500 +0800">
+    <title lang="zh">ショップジャパン</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025010500 +0800" stop="20261025013000 +0800">
+    <title lang="zh">美のショッピング</title>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025013000 +0800" stop="20261025020000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025020000 +0800" stop="20261025023000 +0800">
+    <title lang="zh">トクトク健康セレクション</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025023000 +0800" stop="20261025030000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025030000 +0800" stop="20261025033000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025033000 +0800" stop="20261025040000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025040000 +0800" stop="20261025043000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025043000 +0800" stop="20261025060000 +0800">
+    <title lang="zh">ＢＳものスタサンデー</title>
+    <desc lang="zh">「も」っといい商品を教えて！！「の」んびりしてはいられない「ス」ぐに買いたくなっちゃう商品を「タ」っぷりとご紹介するショッピング番組</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025060000 +0800" stop="20261025063000 +0800">
+    <title lang="zh">ポケットモンスター【プニプニポケモン！プニるプニればプニる時！！】</title>
+    <desc lang="zh">カフェを訪れたリコとナヴィ。そこに現れた肩にナマコブシたちを乗せたサラリーマン・ヤカタに誘われリコたちはプニプニしたポケモンを愛でるプニポケ活動をすることに！？</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/58/d2/24913e236bbfeec6b6783845d2e6.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025063000 +0800" stop="20261025070000 +0800">
+    <title lang="zh">ゴルフ交遊抄【吉田貴志×宮本和知】</title>
+    <desc lang="zh">ゴルフを楽しみ人生を語らう素敵な友と来てくれたのはメンタルトレーナーの吉田貴志さんと元プロ野球選手の宮本和知さん！３０年以上も交遊が続くお二人の対決SP！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/56/77/3f9eaa2ca8a0cbab7450420a1b1f.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025070000 +0800" stop="20261025080000 +0800">
+    <title lang="zh">ゴルフ侍、見参！【真剣勝負！岩本高志プロｖｓトップアマチュア】</title>
+    <desc lang="zh">ホームコースを代表するトップアマが、シニアプロにハンデ無しの真剣勝負を挑む。“アマの意地VSプロのプライド”ここにゴルフの奥義が凝縮されている！◆４Ｋ制作</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/07/65/8f1e9e30bcc55fe282d81d7bc820.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025080000 +0800" stop="20261025083000 +0800">
+    <title lang="zh">孝太郎の爽快ゴルフバトル！【柴田英嗣と真剣バトル！第2戦】</title>
+    <desc lang="zh">ゴルフに情熱を注ぐ俳優・小泉孝太郎がゲストと１対１の真剣勝負！ゴルフのレベルアップを図り、夢のパープレーを目指します。ゲストはお笑い芸人の柴田英嗣！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/52/c6/324d4a4df3ca70d4c7938bc34479.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025083000 +0800" stop="20261025090000 +0800">
+    <title lang="zh">日曜サロン【岡本三成（公明党代表）…「定数削減は雑の極み」】</title>
+    <desc lang="zh">▼1年前の連立離脱は…不可避だった？▼減税より給付にすれば…1人８万円？▼議員は国民の代表…削減は権利縮小？▼社会保障の理想像…ベーシックサービス？</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/4b/1c/75a3ea2d969f05d8db2403246d4b.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025090000 +0800" stop="20261025093000 +0800">
+    <title lang="zh">潜入！オフィス最前線2026◆いま企業が「空間」に投資する理由は？</title>
+    <desc lang="zh">▼家より快適！出社したくなるオフィス？▼仕事が進む！会話が弾むデスクとは？▼データで解決！会議室有効活用法とは？▼〇〇〇のサブスク導入！生産性アップ？</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025093000 +0800" stop="20261025102500 +0800">
+    <title lang="zh">なないろ日和！【腰痛・ひざ痛は骨盤の歪みが原因かも？お悩み解消！骨盤ケア】</title>
+    <desc lang="zh">腰・ひざの痛み等、様々な体の不調は骨盤の歪みが原因かも？骨盤先生がお悩み解消、骨盤ケアを伝授！秋のお出かけを楽しもう！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/59/82/186fd92f8ae4929f2b5e301048c9.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025102500 +0800" stop="20261025105500 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025105500 +0800" stop="20261025130000 +0800">
+    <title lang="zh">傑作ミステリー『女の中の二つの顔』主演：余貴美子</title>
+    <desc lang="zh">姑は知っていた…夫が堕ちた不倫地獄の罠！34年前の隣人が殺人者に変わる…。≪出演≫余貴美子、村上弘明、洞口依子、岸田今日子(他)</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/1ed6e5c2c7b87b54efabad35a1a8780f.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025130000 +0800" stop="20261025140000 +0800">
+    <title lang="zh">マチャミ＆Ｍａｔｔの爆買い！豪遊！韓国ビューティーショッピング</title>
+    <desc lang="zh">マチャミ＆Mattが韓国で美をアップデート！テレ東・ＢＳテレ東の豪華コラボ。カリスマ講師推奨の厳選アイテムを学びながらその場で買える、新感覚のショッピング特番です！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/05/fa/1d51918234720c0f220558506b54.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025140000 +0800" stop="20261025150000 +0800">
+    <title lang="zh">となりのスゴイ家【広見せ(秘)テク＆アイデア収納の家▼コの字型の魅力】</title>
+    <desc lang="zh">空間を広く見せる(秘)テクニックで住宅街でも開放的な家▼○○専用スペースに格納式○○！スッキリ収納テク▼コの字で快適！どこにいても緑と光を感じる高低差を楽しむ家</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/8f/85/215ccc649c57d1aa7082fc904ee2.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025150000 +0800" stop="20261025155400 +0800">
+    <title lang="zh">ＢＯＡＴ　ＲＡＣＥプレミア　全力ＹＥＬＬ！ボートレーススピリッツ</title>
+    <desc lang="zh">磯山さやか＆渡辺将司＆野沢春日とボートレースを全力で応援！レーサーの素顔や魅力を紹介！レースは浜名湖GIII、桐生、多摩川の３つを生中継！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/8b/ca/4a67d3dcf018c9950724c5fd46ce.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025155400 +0800" stop="20261025164500 +0800">
+    <title lang="zh">虎ノ門市場スペシャル</title>
+    <desc lang="zh">日本全国の食文化をお伝えします。地方に伝わる昔ながらの伝統の味や、いま進化を遂げている新しい味など、こだわりの生産者や料理人に密着取材します。</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/98/df/c6e17fa5b82a58e5c09ce2d2b258.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025164500 +0800" stop="20261025171500 +0800">
+    <title lang="zh">飯尾和樹の『ずん喫茶』＜高円寺＞はマスターご夫婦の歴史とミックスサンドが最高！</title>
+    <desc lang="zh">喫茶店が大好きな“ずんの飯尾和樹”の喫茶店めぐり旅。美味しいコーヒーに、マスターや常連さんと愉快なおしゃべり。入店から退店まで飯尾さん目線で楽しむ喫茶店番組</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/85/20/9cd49e93e6fdfff2e31257f2d25e.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025171500 +0800" stop="20261025175500 +0800">
+    <title lang="zh">孤独のグルメ　Season３　＃３「静岡県賀茂郡河津町の生ワサビ付わさび丼」</title>
+    <desc lang="zh">異色のグルメコミックを松重豊主演で実写ドラマ化！輸入雑貨商を営む井之頭五郎は仕事で訪れた町で、ふと店に立ち寄り食事をするのだが…。今回は「静岡県河津町」。</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/592a569b6b10b89597e1aae7421e1f40.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025175500 +0800" stop="20261025180000 +0800">
+    <title lang="zh">ガイド</title>
+    <icon src="https://www.bs-tvtokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025180000 +0800" stop="20261025200000 +0800">
+    <title lang="zh">『再雇用警察官３』　主演・高橋英樹</title>
+    <desc lang="zh">再雇用警察官が刑事の勘と人脈を武器に難事件に挑む“人生100年時代”ミステリー！再出発に潜む罠…妻殺害、遺産20億の完全犯罪!?ラスト驚愕のドンデン返し!?</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/77e929b9108d0d13bd0556bc2149246c.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025200000 +0800" stop="20261025205500 +0800">
+    <title lang="zh">スゴイ家【24帖】大空間アウトドアリビング＆月見台▼【空中庭園!?】２段バルコニー</title>
+    <desc lang="zh">▼東京・文京区【天井高3.6m】出窓ヌック付き【15帖たたみリビング】開放感のヒミツ▼緑を愛でる【縦の庭】!?▼【LDKより広い】ウッドデッキ【月見台】で満天の星空を堪能</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/c5/61/c6f83874988ab162d30bc7ec9d14.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025205500 +0800" stop="20261025210000 +0800">
+    <title lang="zh">全力イノベーターズ～未来を創る挑戦者たち～</title>
+    <desc lang="zh">「今よりもっといい未来に…」今までにないものづくりや仕組みづくりに挑戦する若者たちを追いかけ、可能性を応援していきます。</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/cc/45/4aecba09c633be0beb2e170ec9df.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025210000 +0800" stop="20261025213000 +0800">
+    <title lang="zh">【中小企業奮闘記】グロースの翼　～まるだい運輸倉庫（神奈川県小田原市）</title>
+    <desc lang="zh">負債４０億円！物流会社の再建挑戦▼４代目が向き合った、不採算事業×古い体質×ＤＸ▼覗くと新入社員が昼寝中？▼従業員同士で“譲り合い”とは▼冷蔵倉庫の日本酒づくり</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/88/ce/3563dfcb0b2e46596a3328d9e01b.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025213000 +0800" stop="20261025222500 +0800">
+    <title lang="zh">ガイアの夜明け【“コメ急落”　日本米の逆襲～農家と企業が挑む、稼げる農業～】</title>
+    <desc lang="zh">「令和のコメ騒動」から一転、今年はコメの民間在庫が6月末時点で過去最多の243万トンとなり「空前のコメ余り」に。農家の経営を支えようと奮闘する人たちを追った。</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/22/66/fa07420c7d6627f108b904ef2e2c.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025222500 +0800" stop="20261025225500 +0800">
+    <title lang="zh">辰巳琢郎の葡萄酒浪漫【ゲスト：東村アキコ、徳岡邦夫】後編</title>
+    <desc lang="zh">漫画家・東村アキコさんのブレイクのきっかけとは？お笑い好きが高じて劇場運営!?岩手県産のあべどりや原木生しいたけを使った絶品料理も登場！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/be642590d0d484647640a0b22819aede.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025225500 +0800" stop="20261025230000 +0800">
+    <title lang="zh">シネマアディクト『RYUJI　竜二』〈渡邉美穂オススメ！秋の新作映画〉</title>
+    <desc lang="zh">“二つの家族”を守るため、裏社会から足を洗った男は…。故・金子正次の魂の名作を柳楽優弥主演でリメイクした『RYUJI　竜二』（10/30公開）を渡邉美穂がオススメ！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/9c/bf/ac6b7bc1a677a52d8ab70724d978.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025230000 +0800" stop="20261025234000 +0800">
+    <title lang="zh">まめとむぎ</title>
+    <desc lang="zh">社内不倫で仕事も恋も失った麦。思い出の居酒屋〈大豆堂〉で店主・まめと出会い、塩麹作りをきっかけに発酵の魅力に目覚め、どん底から再出発し、店の立て直しを始める。</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/57/66/e7c2ce7fb51da71766484a8a7b4f.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261025234000 +0800" stop="20261026001000 +0800">
+    <title lang="zh">ライフトレード　第3話「アンコの闇と色恋管理」</title>
+    <desc lang="zh">ゴミ屋敷に住む毒親に絶望するアンコ。新見の救いに心惹かれるも「色恋管理」の罠！？アンコが娘・希子の補導に遭遇する中で、レイは実母に対して思いがけない行動に出る！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/42/3a/c45ab4c9d77b6b0b009ef5f1b1ca.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261026001000 +0800" stop="20261026004000 +0800">
+    <title lang="zh">Hello!　Music　Lab。</title>
+    <desc lang="zh">ハロー！プロジェクトの楽曲に焦点を当てた音楽番組▼ロージークロニクル「なじられたって泣けない　愛されたって泣けない」作詞家が解説！完成前の歌詞原稿をTV初披露！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/67/93/8ad37805f8d3af4c502d31a07a2f.png" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261026004000 +0800" stop="20261026010500 +0800">
+    <title lang="zh">スポーツリアライブ</title>
+    <desc lang="zh">“アスリートやその試合に秘められた「Real」を伝え、スポーツの「Live」が体感できる番組”をコンセプトに、野球・サッカー・五輪種目などを独自目線でお届けします！</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/1f/a4/ff1303c072c36558ac8da8d1706a.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261026010500 +0800" stop="20261026013500 +0800">
+    <title lang="zh">嘘をついた私たち　EP3【裏切り】</title>
+    <desc lang="zh">みの（池田匡志）が桜（渡邉美穂）にすず（浅川梨奈）の“秘密の写真フォルダ”を見せる。二人と別にそれを見た三田（砂田将宏）は兄・亮士（佐野岳）の写真を見つけ…。</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/e4/55/4a49ad4cdf98702a1a154f64b168.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo.jp@SD" start="20261026013500 +0800" stop="20261026033500 +0800">
+    <title lang="zh">シネクラ『ユナイテッド９３』９・１１同時多発テロ…運命に抗った４機目の真実[映]</title>
+    <desc lang="zh">『ボーン』シリーズのグリーングラス監督が描く緊迫のハイジャック！混乱する管制塔と緊迫の機内。閉ざされた空間で真相を知った乗客たちが下した、勇気ある決断の記録。</desc>
+    <icon src="https://www.bs-tvtokyo.co.jp/txcms/media/pg/L/84/d3/b5cfe49dad9c309060cf1c11f3d6.jpg" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024030000 +0800" stop="20261024043000 +0800">
+    <title lang="zh">マル得！ショッピング　週末早起きＳＰ</title>
+    <desc lang="zh">ジャパネットたかたのテレビショッピング！毎週土曜早朝4時～5時半にレギュラー番組でお届け！ジャパネットならではの大特価商品が登場？お見逃しなく！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024043000 +0800" stop="20261024050000 +0800">
+    <title lang="zh">テレビショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024050000 +0800" stop="20261024053000 +0800">
+    <title lang="zh">ＢＳテレ東Ｓｈｏｐ</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024053000 +0800" stop="20261024060000 +0800">
+    <title lang="zh">テレビショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024060000 +0800" stop="20261024063000 +0800">
+    <title lang="zh">ジャパ得！ショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024063000 +0800" stop="20261024070000 +0800">
+    <title lang="zh">孝太郎の爽快ゴルフバトル！【柴田英嗣と真剣バトル！初戦】</title>
+    <desc lang="zh">ゴルフに情熱を注ぐ俳優・小泉孝太郎がゲストと１対１の真剣勝負！ゴルフのレベルアップを図り、夢のパープレーを目指します。ゲストはお笑い芸人の柴田英嗣！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024070000 +0800" stop="20261024073000 +0800">
+    <title lang="zh">おんがく交差点【『100年に一人の逸材？』フルート奏者上野星矢】</title>
+    <desc lang="zh">▼ゲストは「100年に1人の逸材」と呼ばれるフルート奏者　上野星矢さん！▼大学1年生の時、ジャン＝ピエール・ランパル国際フルートコンクールで優勝！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024073000 +0800" stop="20261024080000 +0800">
+    <title lang="zh">エンター・ザ・ミュージック　黛敏郎「シンフォニック・ムード」</title>
+    <desc lang="zh">黛敏郎がフランス留学直前の21歳で生み出した「シンフォニック・ムード」を特集。時代背景や楽曲の特徴を紐解きながら、東京シティ・フィルによる名演をお届けする。</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024080000 +0800" stop="20261024083000 +0800">
+    <title lang="zh">一柳良雄が問う　日本の未来【作る産業から稼ぐ産業へ】</title>
+    <desc lang="zh">▼作るだけでは未来はない？第一次産業に必要な「稼ぐ力」とは▼「食べチョク」の挑戦から、一柳が農林漁業の未来を考える　　（2026年10月17日の再放送）</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024083000 +0800" stop="20261024090000 +0800">
+    <title lang="zh">ＴＨＥ名門校【テレビ学校訪問…大妻中学高等学校】</title>
+    <desc lang="zh">▼早慶上理148人、医学部医学科に34人が合格する伝統女子校▼理科の授業はおよそ半分が実験！卒業生の約半数が理系に進学▼校訓「恥を知れ」に込められた意味とは一体？</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024090000 +0800" stop="20261024095500 +0800">
+    <title lang="zh">モーサテサタデー【ＡＩ活用の投資戦略】</title>
+    <desc lang="zh">▼投資にＡＩ使っていますか？ＡＩ活用の実態は？▼格付け大手に聞く！日本国債の評価は？▼利上げは見送り!?日米欧の金融政策ウイークを展望</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024095500 +0800" stop="20261024100000 +0800">
+    <title lang="zh">ガイド</title>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024100000 +0800" stop="20261024103000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024103000 +0800" stop="20261024123000 +0800">
+    <title lang="zh">土曜お昼のミステリー『湯けむりドクター華岡万里子の温泉事件簿７』かたせ梨乃</title>
+    <desc lang="zh">信州奥信濃の渓谷で、あるリンゴの高級ブランド化を画策していたフードプロデューサーが殺害された。医師の華岡万里子（かたせ梨乃）は謎を追うが、第二の事件が起こり…。</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024123000 +0800" stop="20261024125900 +0800">
+    <title lang="zh">美と健康の健やかタイム</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024125900 +0800" stop="20261024133000 +0800">
+    <title lang="zh">美と健康の健やかタイム</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024133000 +0800" stop="20261024150000 +0800">
+    <title lang="zh">ウイニング競馬～東京～</title>
+    <desc lang="zh">【東京】１０Ｒ日本農業新聞杯　　　　１１ＲアルテミスＳ（ＧⅢ）【京都】１１ＲカシオペアＳ（Ｌ）【新潟】１１Ｒ魚沼ステークス</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024150000 +0800" stop="20261024153000 +0800">
+    <title lang="zh">オードリー春日の知らない街で自腹せんべろ▼JR総武線亀戸駅写真館でポスター撮影</title>
+    <desc lang="zh">JR総武線「亀戸駅」は呑兵衛にはたまらない黒帯酒場密集地。ハッピーアワー220円ビール店&amp;amp;開店前から行列ができる酒場&amp;amp;立ち食い寿司まで魅力的なお店のオンパレード</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024153000 +0800" stop="20261024163000 +0800">
+    <title lang="zh">いいね！じゃぱん【諏訪湖を臨む長野・岡谷の魅力＆群馬・高崎グルメ】</title>
+    <desc lang="zh">諏訪湖のほとり、山々望む風光明媚なまち岡谷の魅力を紹介！湖上の絶景カフェ＆大迫力揃い打ちの太鼓まつり・絶品うなぎとシルクの意外な関係▽高崎グルメに舌鼓！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024163000 +0800" stop="20261024173000 +0800">
+    <title lang="zh">マル得！ＴＨＥ仕事人～おとなの社会科見学～【サンドアートパフォーマー圧巻の世界】</title>
+    <desc lang="zh">船越英一郎・望月理恵が親子三代続く「秩父銘仙」に感動…伝統を守り抜く職人の想い▼砂を操るサンドパアートフォーマーの世界▼快適寝具のヒットメーカーに迫る</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024173000 +0800" stop="20261024174500 +0800">
+    <title lang="zh">テレビショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024174500 +0800" stop="20261024195400 +0800">
+    <title lang="zh">土曜は寅さん！『男はつらいよ　寅次郎かもめ歌』「幸せにならなきゃ許さねえ」[映]</title>
+    <desc lang="zh">【４Ｋデジタル修復版】さくら夫婦一戸建て購入！寅さんは指名手配犯にそっくりでひと悶着。面倒見る娘の朝帰りに寅さん怒り爆発！マドンナは伊藤蘭。シリーズ第26作！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024195400 +0800" stop="20261024200000 +0800">
+    <title lang="zh">教えて！ドクター　家族の健康</title>
+    <desc lang="zh">生活習慣病を中心とした病気と主体的に向き合うために必要な情報を木佐彩子と専門医が紐解いていく。【聞き手】木佐彩子（フリーアナウンサー）</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024200000 +0800" stop="20261024205500 +0800">
+    <title lang="zh">ワタシが日本に住む理由【クラゲは地球を救う？深海６５００ｍ…研究者パパの夢】</title>
+    <desc lang="zh">クラゲで新薬？気候変動予測？豪州パパ奮闘▼「潜水調査船に乗れる」で海洋生物学者に▼日本はクラゲの宝庫…新種発見して命名！▼湖の別荘で１カ月…家族放って虫を追う？</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024205500 +0800" stop="20261024210000 +0800">
+    <title lang="zh">ガイド</title>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024210000 +0800" stop="20261024213000 +0800">
+    <title lang="zh">オードリー春日の知らない街で自腹せんべろ【京成本線お花茶屋駅】渋い酒場巡り</title>
+    <desc lang="zh">訪れるのは葛飾区・京成本線「お花茶屋駅」。常連さんで賑わう黒帯酒場から衝撃100円メニュー店に素敵な大将の激シブ居酒屋など魅力的なお店の数々！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024213000 +0800" stop="20261024215400 +0800">
+    <title lang="zh">卓球ＰＲＯＪＥＣＴ２０２８▼キテレツ猪狩&amp;佐々木が卓球選手とスポーツテスト！</title>
+    <desc lang="zh">平野美宇・木原美悠・吉山僚一の現役選手を迎え、選手の運動能力をガチ調査！キテレツ猪狩と佐々木、レジェンド水谷も参戦するが衝撃の結果に！井上瑞稀の卓球挑戦速報も！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024215400 +0800" stop="20261024220000 +0800">
+    <title lang="zh">わたしのヒュッゲ【料理研究家・小林まさる（前編）】</title>
+    <desc lang="zh">93歳の今もつけている「まさるノート」。料理のレシピはもちろん、思った事を何でも書く。腹が立つ事があった日も書く。まさるノートには、人生のレシピが詰まっている。</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024220000 +0800" stop="20261024223000 +0800">
+    <title lang="zh">ファッション通信【2027　S/S　Milan　Collection　Report】</title>
+    <desc lang="zh">「2027年春夏ミラノコレクション・レポート」！「プラダ」「グッチ」「ジル・サンダー」「ディーゼル」など華やかなゲスト達を迎えたコレクションサーキットはミラノへ！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024223000 +0800" stop="20261024230000 +0800">
+    <title lang="zh">新美の巨人たち【W.M.ヴォーリズ設計　重要文化財【神戸女学院】×内田有紀】</title>
+    <desc lang="zh">W.M.ヴォーリズ設計【神戸女学院】は学校建築の最高傑作！約4万坪の敷地に12棟もの重要文化財が…一般の人が立ち入ることができないサンクチュアリに内田有紀が迫る</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024230000 +0800" stop="20261024233000 +0800">
+    <title lang="zh">私があなたといる理由２　第３話【許された浮気心。】</title>
+    <desc lang="zh">グアムを舞台に8人の男女が“本物の愛”と“許し”を模索するヒューマンドラマ▼新たなペアとのデートを楽しむ一同。しかし、見栄を張る多田にはある大きな秘密があり…</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261024233000 +0800" stop="20261025000000 +0800">
+    <title lang="zh">ショップジャパン</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025000000 +0800" stop="20261025002500 +0800">
+    <title lang="zh">スポーツリアライブ</title>
+    <desc lang="zh">“アスリートやその試合に秘められた「Real」を伝え、スポーツの「Live」が体感できる番組”をコンセプトに、野球・サッカー・五輪種目などを独自目線でお届けします！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025002500 +0800" stop="20261025003000 +0800">
+    <title lang="zh">ＷＥＥＫＬＹ　ＰＩＮＧ　ＰＯＮＧ　ＮＥＷＳ</title>
+    <desc lang="zh">PING　PONG(卓球)の魅力をお届けする全く新しい形のニュース番組が誕生！卓球伝道師の福澤朗をMCに迎え、解説委員には謎のパンダ二頭という異色のメンバーでお送りします！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025003000 +0800" stop="20261025003500 +0800">
+    <title lang="zh">Ｄの旋律～ダンスと音楽のシンフォニー～</title>
+    <desc lang="zh">ヴァイオリニスト古澤巖が奏でる名曲にのせて、日本の社交ダンス界のトップダンサーがダンスを披露する。今宵は「タンゴの幻影第２楽章(波士敦)」</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025003500 +0800" stop="20261025010500 +0800">
+    <title lang="zh">ショップジャパン</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025010500 +0800" stop="20261025013000 +0800">
+    <title lang="zh">美のショッピング</title>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025013000 +0800" stop="20261025020000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025020000 +0800" stop="20261025023000 +0800">
+    <title lang="zh">トクトク健康セレクション</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025023000 +0800" stop="20261025030000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025030000 +0800" stop="20261025033000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025033000 +0800" stop="20261025040000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025040000 +0800" stop="20261025043000 +0800">
+    <title lang="zh">美と健康のショッピング</title>
+    <desc lang="zh">便利な商品をお届け</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025043000 +0800" stop="20261025060000 +0800">
+    <title lang="zh">ＢＳものスタサンデー</title>
+    <desc lang="zh">「も」っといい商品を教えて！！「の」んびりしてはいられない「ス」ぐに買いたくなっちゃう商品を「タ」っぷりとご紹介するショッピング番組</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025060000 +0800" stop="20261025063000 +0800">
+    <title lang="zh">ポケットモンスター【プニプニポケモン！プニるプニればプニる時！！】</title>
+    <desc lang="zh">カフェを訪れたリコとナヴィ。そこに現れた肩にナマコブシたちを乗せたサラリーマン・ヤカタに誘われリコたちはプニプニしたポケモンを愛でるプニポケ活動をすることに！？</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025063000 +0800" stop="20261025070000 +0800">
+    <title lang="zh">ゴルフ交遊抄【吉田貴志×宮本和知】</title>
+    <desc lang="zh">ゴルフを楽しみ人生を語らう素敵な友と来てくれたのはメンタルトレーナーの吉田貴志さんと元プロ野球選手の宮本和知さん！３０年以上も交遊が続くお二人の対決SP！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025070000 +0800" stop="20261025080000 +0800">
+    <title lang="zh">ゴルフ侍、見参！【真剣勝負！岩本高志プロｖｓトップアマチュア】</title>
+    <desc lang="zh">ホームコースを代表するトップアマが、シニアプロにハンデ無しの真剣勝負を挑む。“アマの意地VSプロのプライド”ここにゴルフの奥義が凝縮されている！◆４Ｋ制作</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025130000 +0800" stop="20261025140000 +0800">
+    <title lang="zh">マチャミ＆Ｍａｔｔの爆買い！豪遊！韓国ビューティーショッピング</title>
+    <desc lang="zh">マチャミ＆Mattが韓国で美をアップデート！テレ東・ＢＳテレ東の豪華コラボ。カリスマ講師推奨の厳選アイテムを学びながらその場で買える、新感覚のショッピング特番です！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025140000 +0800" stop="20261025150000 +0800">
+    <title lang="zh">となりのスゴイ家【広見せ[秘]テク＆アイデア収納の家▼コの字型の魅力】</title>
+    <desc lang="zh">空間を広く見せる㊙テクニックで住宅街でも開放的な家▼○○専用スペースに格納式○○！スッキリ収納テク▼コの字で快適！どこにいても緑と光を感じる高低差を楽しむ家</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025150000 +0800" stop="20261025155400 +0800">
+    <title lang="zh">ＢＯＡＴ　ＲＡＣＥプレミア　全力ＹＥＬＬ！ボートレーススピリッツ</title>
+    <desc lang="zh">磯山さやか＆渡辺将司＆野沢春日とボートレースを全力で応援！レーサーの素顔や魅力を紹介！レースは浜名湖GⅢ、桐生、多摩川の３つを生中継！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025155400 +0800" stop="20261025164500 +0800">
+    <title lang="zh">虎ノ門市場スペシャル</title>
+    <desc lang="zh">日本全国の食文化をお伝えします。地方に伝わる昔ながらの伝統の味や、いま進化を遂げている新しい味など、こだわりの生産者や料理人に密着取材します。</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025164500 +0800" stop="20261025171500 +0800">
+    <title lang="zh">飯尾和樹の『ずん喫茶』＜高円寺＞はマスターご夫婦の歴史とミックスサンドが最高！</title>
+    <desc lang="zh">喫茶店が大好きな“ずんの飯尾和樹”の喫茶店めぐり旅。美味しいコーヒーに、マスターや常連さんと愉快なおしゃべり。入店から退店まで飯尾さん目線で楽しむ喫茶店番組</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025171500 +0800" stop="20261025175500 +0800">
+    <title lang="zh">孤独のグルメ　Season３　＃３「静岡県賀茂郡河津町の生ワサビ付わさび丼」</title>
+    <desc lang="zh">異色のグルメコミックを松重豊主演で実写ドラマ化！輸入雑貨商を営む井之頭五郎は仕事で訪れた町で、ふと店に立ち寄り食事をするのだが…。今回は「静岡県河津町」。</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025175500 +0800" stop="20261025180000 +0800">
+    <title lang="zh">ガイド</title>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025180000 +0800" stop="20261025200000 +0800">
+    <title lang="zh">『再雇用警察官３』　主演・高橋英樹</title>
+    <desc lang="zh">再雇用警察官が刑事の勘と人脈を武器に難事件に挑む“人生100年時代”ミステリー！再出発に潜む罠…妻殺害、遺産20億の完全犯罪!?ラスト驚愕のドンデン返し!?</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025200000 +0800" stop="20261025205500 +0800">
+    <title lang="zh">スゴイ家【24帖】大空間アウトドアリビング＆月見台▼【空中庭園!?】２段バルコニー</title>
+    <desc lang="zh">▼東京・文京区【天井高3.6m】出窓ヌック付き【15帖たたみリビング】開放感のヒミツ▼緑を愛でる【縦の庭】!?▼【LDKより広い】ウッドデッキ【月見台】で満天の星空を堪能</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025205500 +0800" stop="20261025210000 +0800">
+    <title lang="zh">全力イノベーターズ～未来を創る挑戦者たち～</title>
+    <desc lang="zh">「今よりもっといい未来に…」今までにないものづくりや仕組みづくりに挑戦する若者たちを追いかけ、可能性を応援していきます。</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025210000 +0800" stop="20261025213000 +0800">
+    <title lang="zh">【中小企業奮闘記】グロースの翼　～まるだい運輸倉庫（神奈川県小田原市）</title>
+    <desc lang="zh">負債４０億円！物流会社の再建挑戦▼４代目が向き合った、不採算事業×古い体質×ＤＸ▼覗くと新入社員が昼寝中？▼従業員同士で“譲り合い”とは▼冷蔵倉庫の日本酒づくり</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025213000 +0800" stop="20261025222500 +0800">
+    <title lang="zh">ガイアの夜明け【“コメ急落”　日本米の逆襲～農家と企業が挑む、稼げる農業～】</title>
+    <desc lang="zh">「令和のコメ騒動」から一転、今年はコメの民間在庫が6月末時点で過去最多の243万トンとなり「空前のコメ余り」に。農家の経営を支えようと奮闘する人たちを追った。</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025222500 +0800" stop="20261025225500 +0800">
+    <title lang="zh">辰巳琢郎の葡萄酒浪漫【ゲスト：東村アキコ、徳岡邦夫】後編</title>
+    <desc lang="zh">漫画家・東村アキコさんのブレイクのきっかけとは？お笑い好きが高じて劇場運営!?岩手県産のあべどりや原木生しいたけを使った絶品料理も登場！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025225500 +0800" stop="20261025230000 +0800">
+    <title lang="zh">シネマアディクト『RYUJI　竜二』〈渡邉美穂オススメ！秋の新作映画〉</title>
+    <desc lang="zh">“二つの家族”を守るため、裏社会から足を洗った男は…。故・金子正次の魂の名作を柳楽優弥主演でリメイクした『RYUJI　竜二』（10/30公開）を渡邉美穂がオススメ！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025230000 +0800" stop="20261025234000 +0800">
+    <title lang="zh">まめとむぎ</title>
+    <desc lang="zh">社内不倫で仕事も恋も失った麦。思い出の居酒屋〈大豆堂〉で店主・まめと出会い、塩麹作りをきっかけに発酵の魅力に目覚め、どん底から再出発し、店の立て直しを始める。</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261025234000 +0800" stop="20261026001000 +0800">
+    <title lang="zh">ライフトレード　第3話「アンコの闇と色恋管理」</title>
+    <desc lang="zh">ゴミ屋敷に住む毒親に絶望するアンコ。新見の救いに心惹かれるも「色恋管理」の罠！？アンコが娘・希子の補導に遭遇する中で、レイは実母に対して思いがけない行動に出る！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261026001000 +0800" stop="20261026004000 +0800">
+    <title lang="zh">Hello!　Music　Lab。</title>
+    <desc lang="zh">ハロー！プロジェクトの楽曲に焦点を当てた音楽番組▼ロージークロニクル「なじられたって泣けない　愛されたって泣けない」作詞家が解説！完成前の歌詞原稿をTV初披露！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261026004000 +0800" stop="20261026010500 +0800">
+    <title lang="zh">スポーツリアライブ</title>
+    <desc lang="zh">“アスリートやその試合に秘められた「Real」を伝え、スポーツの「Live」が体感できる番組”をコンセプトに、野球・サッカー・五輪種目などを独自目線でお届けします！</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261026010500 +0800" stop="20261026013500 +0800">
+    <title lang="zh">嘘をついた私たち　EP3【裏切り】</title>
+    <desc lang="zh">みの（池田匡志）が桜（渡邉美穂）にすず（浅川梨奈）の“秘密の写真フォルダ”を見せる。二人と別にそれを見た三田（砂田将宏）は兄・亮士（佐野岳）の写真を見つけ…。</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+  <programme channel="BSTVTokyo4K.jp@SD" start="20261026013500 +0800" stop="20261026033500 +0800">
+    <title lang="zh">シネクラ『ユナイテッド９３』９・１１同時多発テロ…運命に抗った４機目の真実[映]</title>
+    <desc lang="zh">『ボーン』シリーズのグリーングラス監督が描く緊迫のハイジャック！混乱する管制塔と緊迫の機内。閉ざされた空間で真相を知った乗客たちが下した、勇気ある決断の記録。</desc>
+    <icon src="https://www.tv-tokyo.co.jp/tbcms/assets/images/alt_bs-tv-tokyo-4k.png?width=320&amp;height=180&amp;color=ffffff" />
+  </programme>
+</tv>

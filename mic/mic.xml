@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="mic">
+  <channel id="MusicInformationChannel.id">
+    <display-name lang="id">Music Information Channel</display-name>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </channel>
+  <programme channel="MusicInformationChannel.id" start="20261023000000 +0700" stop="20261023003000 +0700">
+    <title lang="id">MIC CHART 2024</title>
+    <desc lang="id">Program mingguan Mic Chart 2024</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023003001 +0700" stop="20261023013000 +0700">
+    <title lang="id">JUMAT: MIC MELAYU 5</title>
+    <desc lang="id">Video musik bernuansa pop melayu, ada disini!</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023013001 +0700" stop="20261023033000 +0700">
+    <title lang="id">JUMAT: MIC POP HITS 5</title>
+    <desc lang="id">Memutarkan lagu-lagu pop Indonesia</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023033001 +0700" stop="20261023053000 +0700">
+    <title lang="id">JUMAT: MIC DANGDUT 5</title>
+    <desc lang="id">Bergoyang bersama dengan lagu dangdut Indonesia</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023053001 +0700" stop="20261023093000 +0700">
+    <title lang="id">JUMAT: MIC POP HITS 5</title>
+    <desc lang="id">Memutarkan lagu-lagu pop Indonesia</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023093001 +0700" stop="20261023100001 +0700">
+    <title lang="id">MIC CHART 2024</title>
+    <desc lang="id">Program mingguan Mic Chart 2024</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023100002 +0700" stop="20261023120000 +0700">
+    <title lang="id">JUMAT: MIC DANGDUT 5</title>
+    <desc lang="id">Bergoyang bersama dengan lagu dangdut Indonesia</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023120001 +0700" stop="20261023130000 +0700">
+    <title lang="id">JUMAT: MIC VIDEO LIRIK 5</title>
+    <desc lang="id">Memutarkan video lirik musisi-musisi Indonesia</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023130001 +0700" stop="20261023133001 +0700">
+    <title lang="id">MIC CHART 2024</title>
+    <desc lang="id">Program mingguan Mic Chart 2024</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023133002 +0700" stop="20261023153000 +0700">
+    <title lang="id">JUMAT: MIC JAWA 5</title>
+    <desc lang="id">Urip di gawe, nyanyi wae lur!</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023153001 +0700" stop="20261023193000 +0700">
+    <title lang="id">JUMAT: MIC POP HITS 5</title>
+    <desc lang="id">Memutarkan lagu-lagu pop Indonesia</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023193001 +0700" stop="20261023200001 +0700">
+    <title lang="id">MIC CHART 2024</title>
+    <desc lang="id">Program mingguan Mic Chart 2024</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023200002 +0700" stop="20261023220000 +0700">
+    <title lang="id">JUMAT: MIC DANGDUT 5</title>
+    <desc lang="id">Bergoyang bersama dengan lagu dangdut Indonesia</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+  <programme channel="MusicInformationChannel.id" start="20261023220001 +0700" stop="20261024000000 +0700">
+    <title lang="id">JUMAT: MIC JAWA 5</title>
+    <desc lang="id">Urip di gawe, nyanyi wae lur!</desc>
+    <icon src="https://mic-indo.com/static/media/mic_logo.d4040cbd7674f74e2ba7.png" />
+  </programme>
+</tv>
